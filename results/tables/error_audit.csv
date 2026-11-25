@@ -1,0 +1,21 @@
+sample_id,true,predicted,confidence,duration_s
+Propeller aircrafts/Airplanes/Airplanes-0004.wav,Propeller aircrafts,Jet aircrafts,0.999,10.99
+Workshop/air compressor/air compressor-0028.wav,Workshop,Vacuum cleaner fan and hairdryer,0.984,35.91
+Vehicle idling/car truck idling/car truck idling-0034.wav,Vehicle idling,Vehicle pass-by,0.982,40.82
+Music/Music-0774.wav,Music,Train,0.98,30.0
+Vehicle idling/motorbike idling/motorbike idling-0029.wav,Vehicle idling,Lawn mower brush cutter and olive shaker,0.963,33.79
+Vehicle pass-by/car pass-by/car pass-by-0089.wav,Vehicle pass-by,Jet aircrafts,0.957,5.0
+Vacuum cleaner fan and hairdryer/vacuum cleaner/vacuum cleaner-0001.wav,Vacuum cleaner fan and hairdryer,Workshop,0.926,29.61
+Sirens and alarms/Alarms/Alarms-0008.wav,Sirens and alarms,Cicadas and crickets,0.904,27.31
+Sirens and alarms/Sirens/Sirens-0016.wav,Sirens and alarms,Crows seagulls and magpies,0.903,39.73
+Vehicle pass-by/motorbike pass-by/motorbike pass-by-0046.wav,Vehicle pass-by,Lawn mower brush cutter and olive shaker,0.881,49.61
+Vehicle pass-by/motorbike pass-by/motorbike pass-by-0004.wav,Vehicle pass-by,Propeller aircrafts,0.878,8.79
+Vehicle pass-by/motorbike pass-by/motorbike pass-by-0055.wav,Vehicle pass-by,Lawn mower brush cutter and olive shaker,0.869,226.92
+Horn/Horn-0044.wav,Horn,Sirens and alarms,0.868,45.2
+Birds/Birds-0040.wav,Birds,Crows seagulls and magpies,0.862,3.83
+Vehicle pass-by/truck pass-by/truck pass-by-0016.wav,Vehicle pass-by,Propeller aircrafts,0.859,4.28
+Birds/Birds-0034.wav,Birds,Cicadas and crickets,0.843,5.0
+Workshop/saw/saw-0040.wav,Workshop,Vacuum cleaner fan and hairdryer,0.819,5.02
+Music/Music-0010.wav,Music,Propeller aircrafts,0.805,30.0
+Vacuum cleaner fan and hairdryer/vacuum cleaner/vacuum cleaner-0025.wav,Vacuum cleaner fan and hairdryer,Train,0.8,24.26
+Workshop/jackhammer/jackhammer-0053.wav,Workshop,Vacuum cleaner fan and hairdryer,0.725,75.85

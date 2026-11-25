@@ -1,0 +1,23 @@
+,Small CNN,MobileNetV3-Small,CRNN,n_test
+Bells,0.737,1.0,0.952,10
+Birds,0.556,0.842,0.947,10
+Cat fights and moans,0.667,1.0,0.833,7
+Chicken coop,0.714,1.0,0.889,8
+Cicadas and crickets,0.833,0.87,0.9,11
+Crows seagulls and magpies,0.733,0.909,0.903,16
+Dog barkings and howlings,0.706,1.0,0.842,10
+Glass breaking,0.941,0.97,0.944,17
+Horn,0.667,0.8,0.933,8
+Jet aircrafts,0.514,0.857,0.839,16
+Lawn mower brush cutter and olive shaker,0.638,0.791,0.78,19
+Music,0.973,0.993,0.99,150
+Propeller aircrafts,0.688,0.8,0.649,16
+Sirens and alarms,0.71,0.867,0.941,16
+Thunder fireworks and gunshot,0.901,1.0,0.986,36
+Train,0.5,0.909,0.64,10
+Vacuum cleaner fan and hairdryer,0.385,0.733,0.444,15
+Vehicle idling,0.593,0.69,0.5,17
+Vehicle pass-by,0.515,0.839,0.667,33
+Voices,0.983,0.998,1.0,285
+Wind turbine,0.968,1.0,1.0,15
+Workshop,0.787,0.879,0.818,33

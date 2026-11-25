@@ -1,0 +1,19 @@
+perturbation,severity,sample_id,true_class,clean_pred,corrupted_pred,file
+noise_pink,3,Workshop/saw/saw-0032.wav,Workshop,Workshop,Vacuum cleaner fan and hairdryer,noise_pink_sev3_saw-0032
+noise_pink,3,Bells/Bells-0002.wav,Bells,Bells,Cat fights and moans,noise_pink_sev3_Bells-0002
+noise_pink,3,Bells/Bells-0015.wav,Bells,Bells,Lawn mower brush cutter and olive shaker,noise_pink_sev3_Bells-0015
+noise_mix,3,Workshop/saw/saw-0032.wav,Workshop,Workshop,Music,noise_mix_sev3_saw-0032
+noise_mix,3,Bells/Bells-0021.wav,Bells,Bells,Propeller aircrafts,noise_mix_sev3_Bells-0021
+noise_mix,3,Workshop/jackhammer/jackhammer-0042.wav,Workshop,Workshop,Music,noise_mix_sev3_jackhammer-0042
+gain,3,Chicken coop/Chicken coop-0002.wav,Chicken coop,Chicken coop,Dog barkings and howlings,gain_sev3_Chicken_coop-0002
+gain,3,Chicken coop/Chicken coop-0003.wav,Chicken coop,Chicken coop,Dog barkings and howlings,gain_sev3_Chicken_coop-0003
+gain,3,Dog barkings and howlings/Dog barkings and howlings-0026.wav,Dog barkings and howlings,Dog barkings and howlings,Cat fights and moans,gain_sev3_Dog_barkings_and_howlings-0026
+shift,3,Chicken coop/Chicken coop-0003.wav,Chicken coop,Chicken coop,Dog barkings and howlings,shift_sev3_Chicken_coop-0003
+shift,3,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0014.wav,Vehicle pass-by,Vehicle pass-by,Vehicle idling,shift_sev3_motorbike_pass-by-0014
+shift,3,Vehicle pass-by/truck pass-by/truck pass-by-0012.wav,Vehicle pass-by,Vehicle pass-by,Train,shift_sev3_truck_pass-by-0012
+time_mask,3,Bells/Bells-0015.wav,Bells,Bells,Horn,time_mask_sev3_Bells-0015
+time_mask,3,Bells/Bells-0021.wav,Bells,Bells,Workshop,time_mask_sev3_Bells-0021
+time_mask,3,Birds/Birds-0014.wav,Birds,Birds,Glass breaking,time_mask_sev3_Birds-0014
+freq_mask,3,Bells/Bells-0002.wav,Bells,Bells,Music,freq_mask_sev3_Bells-0002
+freq_mask,3,Bells/Bells-0015.wav,Bells,Bells,Cicadas and crickets,freq_mask_sev3_Bells-0015
+freq_mask,3,Bells/Bells-0021.wav,Bells,Bells,Music,freq_mask_sev3_Bells-0021

@@ -1,0 +1,1189 @@
+model,perturbation,severity,cls,n_test,f1_clean,f1_corrupted,delta
+Small CNN,noise_pink,1,Bells,10,0.737,0.125,0.612
+Small CNN,noise_pink,1,Birds,10,0.556,0.226,0.329
+Small CNN,noise_pink,1,Cat fights and moans,7,0.667,0.706,-0.039
+Small CNN,noise_pink,1,Chicken coop,8,0.714,0.0,0.714
+Small CNN,noise_pink,1,Cicadas and crickets,11,0.833,0.571,0.262
+Small CNN,noise_pink,1,Crows seagulls and magpies,16,0.733,0.197,0.536
+Small CNN,noise_pink,1,Dog barkings and howlings,10,0.706,0.0,0.706
+Small CNN,noise_pink,1,Glass breaking,17,0.941,0.741,0.2
+Small CNN,noise_pink,1,Horn,8,0.667,0.4,0.267
+Small CNN,noise_pink,1,Jet aircrafts,16,0.514,0.0,0.514
+Small CNN,noise_pink,1,Lawn mower brush cutter and olive shaker,19,0.638,0.435,0.204
+Small CNN,noise_pink,1,Music,150,0.973,0.921,0.052
+Small CNN,noise_pink,1,Propeller aircrafts,16,0.688,0.118,0.57
+Small CNN,noise_pink,1,Sirens and alarms,16,0.71,0.444,0.265
+Small CNN,noise_pink,1,Thunder fireworks and gunshot,36,0.901,0.435,0.467
+Small CNN,noise_pink,1,Train,10,0.5,0.132,0.368
+Small CNN,noise_pink,1,Vacuum cleaner fan and hairdryer,15,0.385,0.467,-0.082
+Small CNN,noise_pink,1,Vehicle idling,17,0.593,0.231,0.362
+Small CNN,noise_pink,1,Vehicle pass-by,33,0.515,0.262,0.253
+Small CNN,noise_pink,1,Voices,285,0.983,0.447,0.536
+Small CNN,noise_pink,1,Wind turbine,15,0.968,0.261,0.707
+Small CNN,noise_pink,1,Workshop,33,0.787,0.786,0.001
+Small CNN,noise_pink,2,Bells,10,0.737,0.0,0.737
+Small CNN,noise_pink,2,Birds,10,0.556,0.25,0.306
+Small CNN,noise_pink,2,Cat fights and moans,7,0.667,0.444,0.222
+Small CNN,noise_pink,2,Chicken coop,8,0.714,0.0,0.714
+Small CNN,noise_pink,2,Cicadas and crickets,11,0.833,0.48,0.353
+Small CNN,noise_pink,2,Crows seagulls and magpies,16,0.733,0.062,0.671
+Small CNN,noise_pink,2,Dog barkings and howlings,10,0.706,0.0,0.706
+Small CNN,noise_pink,2,Glass breaking,17,0.941,0.692,0.249
+Small CNN,noise_pink,2,Horn,8,0.667,0.0,0.667
+Small CNN,noise_pink,2,Jet aircrafts,16,0.514,0.0,0.514
+Small CNN,noise_pink,2,Lawn mower brush cutter and olive shaker,19,0.638,0.163,0.475
+Small CNN,noise_pink,2,Music,150,0.973,0.726,0.247
+Small CNN,noise_pink,2,Propeller aircrafts,16,0.688,0.118,0.57
+Small CNN,noise_pink,2,Sirens and alarms,16,0.71,0.378,0.331
+Small CNN,noise_pink,2,Thunder fireworks and gunshot,36,0.901,0.2,0.701
+Small CNN,noise_pink,2,Train,10,0.5,0.067,0.433
+Small CNN,noise_pink,2,Vacuum cleaner fan and hairdryer,15,0.385,0.36,0.025
+Small CNN,noise_pink,2,Vehicle idling,17,0.593,0.154,0.439
+Small CNN,noise_pink,2,Vehicle pass-by,33,0.515,0.237,0.278
+Small CNN,noise_pink,2,Voices,285,0.983,0.0,0.983
+Small CNN,noise_pink,2,Wind turbine,15,0.968,0.125,0.843
+Small CNN,noise_pink,2,Workshop,33,0.787,0.692,0.095
+Small CNN,noise_pink,3,Bells,10,0.737,0.0,0.737
+Small CNN,noise_pink,3,Birds,10,0.556,0.0,0.556
+Small CNN,noise_pink,3,Cat fights and moans,7,0.667,0.0,0.667
+Small CNN,noise_pink,3,Chicken coop,8,0.714,0.0,0.714
+Small CNN,noise_pink,3,Cicadas and crickets,11,0.833,0.154,0.679
+Small CNN,noise_pink,3,Crows seagulls and magpies,16,0.733,0.111,0.622
+Small CNN,noise_pink,3,Dog barkings and howlings,10,0.706,0.0,0.706
+Small CNN,noise_pink,3,Glass breaking,17,0.941,0.0,0.941
+Small CNN,noise_pink,3,Horn,8,0.667,0.0,0.667
+Small CNN,noise_pink,3,Jet aircrafts,16,0.514,0.0,0.514
+Small CNN,noise_pink,3,Lawn mower brush cutter and olive shaker,19,0.638,0.0,0.638
+Small CNN,noise_pink,3,Music,150,0.973,0.026,0.947
+Small CNN,noise_pink,3,Propeller aircrafts,16,0.688,0.0,0.688
+Small CNN,noise_pink,3,Sirens and alarms,16,0.71,0.211,0.499
+Small CNN,noise_pink,3,Thunder fireworks and gunshot,36,0.901,0.0,0.901
+Small CNN,noise_pink,3,Train,10,0.5,0.033,0.467
+Small CNN,noise_pink,3,Vacuum cleaner fan and hairdryer,15,0.385,0.087,0.298
+Small CNN,noise_pink,3,Vehicle idling,17,0.593,0.125,0.468
+Small CNN,noise_pink,3,Vehicle pass-by,33,0.515,0.215,0.3
+Small CNN,noise_pink,3,Voices,285,0.983,0.0,0.983
+Small CNN,noise_pink,3,Wind turbine,15,0.968,0.0,0.968
+Small CNN,noise_pink,3,Workshop,33,0.787,0.348,0.439
+Small CNN,noise_mix,1,Bells,10,0.737,0.538,0.198
+Small CNN,noise_mix,1,Birds,10,0.556,0.294,0.261
+Small CNN,noise_mix,1,Cat fights and moans,7,0.667,0.429,0.238
+Small CNN,noise_mix,1,Chicken coop,8,0.714,0.214,0.5
+Small CNN,noise_mix,1,Cicadas and crickets,11,0.833,0.444,0.389
+Small CNN,noise_mix,1,Crows seagulls and magpies,16,0.733,0.423,0.31
+Small CNN,noise_mix,1,Dog barkings and howlings,10,0.706,0.174,0.532
+Small CNN,noise_mix,1,Glass breaking,17,0.941,0.718,0.223
+Small CNN,noise_mix,1,Horn,8,0.667,0.0,0.667
+Small CNN,noise_mix,1,Jet aircrafts,16,0.514,0.37,0.144
+Small CNN,noise_mix,1,Lawn mower brush cutter and olive shaker,19,0.638,0.5,0.138
+Small CNN,noise_mix,1,Music,150,0.973,0.841,0.132
+Small CNN,noise_mix,1,Propeller aircrafts,16,0.688,0.69,-0.002
+Small CNN,noise_mix,1,Sirens and alarms,16,0.71,0.571,0.138
+Small CNN,noise_mix,1,Thunder fireworks and gunshot,36,0.901,0.769,0.132
+Small CNN,noise_mix,1,Train,10,0.5,0.538,-0.038
+Small CNN,noise_mix,1,Vacuum cleaner fan and hairdryer,15,0.385,0.385,0.0
+Small CNN,noise_mix,1,Vehicle idling,17,0.593,0.304,0.288
+Small CNN,noise_mix,1,Vehicle pass-by,33,0.515,0.406,0.109
+Small CNN,noise_mix,1,Voices,285,0.983,0.673,0.31
+Small CNN,noise_mix,1,Wind turbine,15,0.968,0.435,0.533
+Small CNN,noise_mix,1,Workshop,33,0.787,0.647,0.14
+Small CNN,noise_mix,2,Bells,10,0.737,0.385,0.352
+Small CNN,noise_mix,2,Birds,10,0.556,0.267,0.289
+Small CNN,noise_mix,2,Cat fights and moans,7,0.667,0.276,0.391
+Small CNN,noise_mix,2,Chicken coop,8,0.714,0.083,0.631
+Small CNN,noise_mix,2,Cicadas and crickets,11,0.833,0.348,0.486
+Small CNN,noise_mix,2,Crows seagulls and magpies,16,0.733,0.222,0.511
+Small CNN,noise_mix,2,Dog barkings and howlings,10,0.706,0.125,0.581
+Small CNN,noise_mix,2,Glass breaking,17,0.941,0.615,0.326
+Small CNN,noise_mix,2,Horn,8,0.667,0.0,0.667
+Small CNN,noise_mix,2,Jet aircrafts,16,0.514,0.235,0.279
+Small CNN,noise_mix,2,Lawn mower brush cutter and olive shaker,19,0.638,0.418,0.22
+Small CNN,noise_mix,2,Music,150,0.973,0.783,0.191
+Small CNN,noise_mix,2,Propeller aircrafts,16,0.688,0.357,0.33
+Small CNN,noise_mix,2,Sirens and alarms,16,0.71,0.526,0.183
+Small CNN,noise_mix,2,Thunder fireworks and gunshot,36,0.901,0.346,0.555
+Small CNN,noise_mix,2,Train,10,0.5,0.244,0.256
+Small CNN,noise_mix,2,Vacuum cleaner fan and hairdryer,15,0.385,0.294,0.09
+Small CNN,noise_mix,2,Vehicle idling,17,0.593,0.256,0.336
+Small CNN,noise_mix,2,Vehicle pass-by,33,0.515,0.211,0.305
+Small CNN,noise_mix,2,Voices,285,0.983,0.46,0.522
+Small CNN,noise_mix,2,Wind turbine,15,0.968,0.222,0.746
+Small CNN,noise_mix,2,Workshop,33,0.787,0.622,0.165
+Small CNN,noise_mix,3,Bells,10,0.737,0.182,0.555
+Small CNN,noise_mix,3,Birds,10,0.556,0.095,0.46
+Small CNN,noise_mix,3,Cat fights and moans,7,0.667,0.087,0.58
+Small CNN,noise_mix,3,Chicken coop,8,0.714,0.0,0.714
+Small CNN,noise_mix,3,Cicadas and crickets,11,0.833,0.211,0.623
+Small CNN,noise_mix,3,Crows seagulls and magpies,16,0.733,0.13,0.603
+Small CNN,noise_mix,3,Dog barkings and howlings,10,0.706,0.08,0.626
+Small CNN,noise_mix,3,Glass breaking,17,0.941,0.462,0.48
+Small CNN,noise_mix,3,Horn,8,0.667,0.0,0.667
+Small CNN,noise_mix,3,Jet aircrafts,16,0.514,0.0,0.514
+Small CNN,noise_mix,3,Lawn mower brush cutter and olive shaker,19,0.638,0.267,0.372
+Small CNN,noise_mix,3,Music,150,0.973,0.587,0.387
+Small CNN,noise_mix,3,Propeller aircrafts,16,0.688,0.0,0.688
+Small CNN,noise_mix,3,Sirens and alarms,16,0.71,0.235,0.474
+Small CNN,noise_mix,3,Thunder fireworks and gunshot,36,0.901,0.178,0.724
+Small CNN,noise_mix,3,Train,10,0.5,0.1,0.4
+Small CNN,noise_mix,3,Vacuum cleaner fan and hairdryer,15,0.385,0.276,0.109
+Small CNN,noise_mix,3,Vehicle idling,17,0.593,0.235,0.357
+Small CNN,noise_mix,3,Vehicle pass-by,33,0.515,0.275,0.24
+Small CNN,noise_mix,3,Voices,285,0.983,0.257,0.726
+Small CNN,noise_mix,3,Wind turbine,15,0.968,0.0,0.968
+Small CNN,noise_mix,3,Workshop,33,0.787,0.465,0.322
+Small CNN,gain,1,Bells,10,0.737,0.556,0.181
+Small CNN,gain,1,Birds,10,0.556,0.556,0.0
+Small CNN,gain,1,Cat fights and moans,7,0.667,0.667,0.0
+Small CNN,gain,1,Chicken coop,8,0.714,0.5,0.214
+Small CNN,gain,1,Cicadas and crickets,11,0.833,0.762,0.071
+Small CNN,gain,1,Crows seagulls and magpies,16,0.733,0.706,0.027
+Small CNN,gain,1,Dog barkings and howlings,10,0.706,0.706,0.0
+Small CNN,gain,1,Glass breaking,17,0.941,0.875,0.066
+Small CNN,gain,1,Horn,8,0.667,0.625,0.042
+Small CNN,gain,1,Jet aircrafts,16,0.514,0.533,-0.019
+Small CNN,gain,1,Lawn mower brush cutter and olive shaker,19,0.638,0.649,-0.01
+Small CNN,gain,1,Music,150,0.973,0.961,0.013
+Small CNN,gain,1,Propeller aircrafts,16,0.688,0.733,-0.046
+Small CNN,gain,1,Sirens and alarms,16,0.71,0.706,0.004
+Small CNN,gain,1,Thunder fireworks and gunshot,36,0.901,0.904,-0.003
+Small CNN,gain,1,Train,10,0.5,0.538,-0.038
+Small CNN,gain,1,Vacuum cleaner fan and hairdryer,15,0.385,0.48,-0.095
+Small CNN,gain,1,Vehicle idling,17,0.593,0.483,0.11
+Small CNN,gain,1,Vehicle pass-by,33,0.515,0.507,0.008
+Small CNN,gain,1,Voices,285,0.983,0.977,0.005
+Small CNN,gain,1,Wind turbine,15,0.968,1.0,-0.032
+Small CNN,gain,1,Workshop,33,0.787,0.794,-0.007
+Small CNN,gain,2,Bells,10,0.737,0.842,-0.105
+Small CNN,gain,2,Birds,10,0.556,0.583,-0.028
+Small CNN,gain,2,Cat fights and moans,7,0.667,0.706,-0.039
+Small CNN,gain,2,Chicken coop,8,0.714,0.714,0.0
+Small CNN,gain,2,Cicadas and crickets,11,0.833,0.833,0.0
+Small CNN,gain,2,Crows seagulls and magpies,16,0.733,0.714,0.019
+Small CNN,gain,2,Dog barkings and howlings,10,0.706,0.625,0.081
+Small CNN,gain,2,Glass breaking,17,0.941,0.97,-0.029
+Small CNN,gain,2,Horn,8,0.667,0.714,-0.048
+Small CNN,gain,2,Jet aircrafts,16,0.514,0.606,-0.092
+Small CNN,gain,2,Lawn mower brush cutter and olive shaker,19,0.638,0.651,-0.013
+Small CNN,gain,2,Music,150,0.973,0.97,0.003
+Small CNN,gain,2,Propeller aircrafts,16,0.688,0.743,-0.055
+Small CNN,gain,2,Sirens and alarms,16,0.71,0.621,0.089
+Small CNN,gain,2,Thunder fireworks and gunshot,36,0.901,0.877,0.025
+Small CNN,gain,2,Train,10,0.5,0.444,0.056
+Small CNN,gain,2,Vacuum cleaner fan and hairdryer,15,0.385,0.385,0.0
+Small CNN,gain,2,Vehicle idling,17,0.593,0.462,0.131
+Small CNN,gain,2,Vehicle pass-by,33,0.515,0.525,-0.009
+Small CNN,gain,2,Voices,285,0.983,0.979,0.003
+Small CNN,gain,2,Wind turbine,15,0.968,0.909,0.059
+Small CNN,gain,2,Workshop,33,0.787,0.828,-0.041
+Small CNN,gain,3,Bells,10,0.737,0.632,0.105
+Small CNN,gain,3,Birds,10,0.556,0.4,0.156
+Small CNN,gain,3,Cat fights and moans,7,0.667,0.522,0.145
+Small CNN,gain,3,Chicken coop,8,0.714,0.333,0.381
+Small CNN,gain,3,Cicadas and crickets,11,0.833,0.714,0.119
+Small CNN,gain,3,Crows seagulls and magpies,16,0.733,0.667,0.067
+Small CNN,gain,3,Dog barkings and howlings,10,0.706,0.706,0.0
+Small CNN,gain,3,Glass breaking,17,0.941,1.0,-0.059
+Small CNN,gain,3,Horn,8,0.667,0.714,-0.048
+Small CNN,gain,3,Jet aircrafts,16,0.514,0.556,-0.041
+Small CNN,gain,3,Lawn mower brush cutter and olive shaker,19,0.638,0.714,-0.076
+Small CNN,gain,3,Music,150,0.973,0.956,0.017
+Small CNN,gain,3,Propeller aircrafts,16,0.688,0.75,-0.062
+Small CNN,gain,3,Sirens and alarms,16,0.71,0.593,0.117
+Small CNN,gain,3,Thunder fireworks and gunshot,36,0.901,0.857,0.044
+Small CNN,gain,3,Train,10,0.5,0.444,0.056
+Small CNN,gain,3,Vacuum cleaner fan and hairdryer,15,0.385,0.435,-0.05
+Small CNN,gain,3,Vehicle idling,17,0.593,0.324,0.268
+Small CNN,gain,3,Vehicle pass-by,33,0.515,0.533,-0.018
+Small CNN,gain,3,Voices,285,0.983,0.977,0.005
+Small CNN,gain,3,Wind turbine,15,0.968,0.909,0.059
+Small CNN,gain,3,Workshop,33,0.787,0.741,0.046
+Small CNN,shift,1,Bells,10,0.737,0.737,0.0
+Small CNN,shift,1,Birds,10,0.556,0.526,0.029
+Small CNN,shift,1,Cat fights and moans,7,0.667,0.706,-0.039
+Small CNN,shift,1,Chicken coop,8,0.714,0.5,0.214
+Small CNN,shift,1,Cicadas and crickets,11,0.833,0.783,0.051
+Small CNN,shift,1,Crows seagulls and magpies,16,0.733,0.75,-0.017
+Small CNN,shift,1,Dog barkings and howlings,10,0.706,0.706,0.0
+Small CNN,shift,1,Glass breaking,17,0.941,0.941,0.0
+Small CNN,shift,1,Horn,8,0.667,0.571,0.095
+Small CNN,shift,1,Jet aircrafts,16,0.514,0.514,0.0
+Small CNN,shift,1,Lawn mower brush cutter and olive shaker,19,0.638,0.625,0.013
+Small CNN,shift,1,Music,150,0.973,0.97,0.003
+Small CNN,shift,1,Propeller aircrafts,16,0.688,0.688,0.0
+Small CNN,shift,1,Sirens and alarms,16,0.71,0.71,0.0
+Small CNN,shift,1,Thunder fireworks and gunshot,36,0.901,0.889,0.013
+Small CNN,shift,1,Train,10,0.5,0.56,-0.06
+Small CNN,shift,1,Vacuum cleaner fan and hairdryer,15,0.385,0.4,-0.015
+Small CNN,shift,1,Vehicle idling,17,0.593,0.571,0.021
+Small CNN,shift,1,Vehicle pass-by,33,0.515,0.484,0.031
+Small CNN,shift,1,Voices,285,0.983,0.984,-0.002
+Small CNN,shift,1,Wind turbine,15,0.968,0.968,0.0
+Small CNN,shift,1,Workshop,33,0.787,0.806,-0.02
+Small CNN,shift,2,Bells,10,0.737,0.737,0.0
+Small CNN,shift,2,Birds,10,0.556,0.556,0.0
+Small CNN,shift,2,Cat fights and moans,7,0.667,0.706,-0.039
+Small CNN,shift,2,Chicken coop,8,0.714,0.615,0.099
+Small CNN,shift,2,Cicadas and crickets,11,0.833,0.833,0.0
+Small CNN,shift,2,Crows seagulls and magpies,16,0.733,0.774,-0.041
+Small CNN,shift,2,Dog barkings and howlings,10,0.706,0.706,0.0
+Small CNN,shift,2,Glass breaking,17,0.941,0.882,0.059
+Small CNN,shift,2,Horn,8,0.667,0.571,0.095
+Small CNN,shift,2,Jet aircrafts,16,0.514,0.529,-0.015
+Small CNN,shift,2,Lawn mower brush cutter and olive shaker,19,0.638,0.681,-0.043
+Small CNN,shift,2,Music,150,0.973,0.974,-0.0
+Small CNN,shift,2,Propeller aircrafts,16,0.688,0.71,-0.022
+Small CNN,shift,2,Sirens and alarms,16,0.71,0.71,0.0
+Small CNN,shift,2,Thunder fireworks and gunshot,36,0.901,0.904,-0.003
+Small CNN,shift,2,Train,10,0.5,0.56,-0.06
+Small CNN,shift,2,Vacuum cleaner fan and hairdryer,15,0.385,0.48,-0.095
+Small CNN,shift,2,Vehicle idling,17,0.593,0.552,0.041
+Small CNN,shift,2,Vehicle pass-by,33,0.515,0.492,0.023
+Small CNN,shift,2,Voices,285,0.983,0.983,-0.0
+Small CNN,shift,2,Wind turbine,15,0.968,0.968,0.0
+Small CNN,shift,2,Workshop,33,0.787,0.839,-0.052
+Small CNN,shift,3,Bells,10,0.737,0.737,0.0
+Small CNN,shift,3,Birds,10,0.556,0.556,0.0
+Small CNN,shift,3,Cat fights and moans,7,0.667,0.706,-0.039
+Small CNN,shift,3,Chicken coop,8,0.714,0.5,0.214
+Small CNN,shift,3,Cicadas and crickets,11,0.833,0.833,0.0
+Small CNN,shift,3,Crows seagulls and magpies,16,0.733,0.727,0.006
+Small CNN,shift,3,Dog barkings and howlings,10,0.706,0.667,0.039
+Small CNN,shift,3,Glass breaking,17,0.941,0.941,0.0
+Small CNN,shift,3,Horn,8,0.667,0.714,-0.048
+Small CNN,shift,3,Jet aircrafts,16,0.514,0.529,-0.015
+Small CNN,shift,3,Lawn mower brush cutter and olive shaker,19,0.638,0.652,-0.014
+Small CNN,shift,3,Music,150,0.973,0.974,-0.0
+Small CNN,shift,3,Propeller aircrafts,16,0.688,0.688,0.0
+Small CNN,shift,3,Sirens and alarms,16,0.71,0.71,0.0
+Small CNN,shift,3,Thunder fireworks and gunshot,36,0.901,0.892,0.01
+Small CNN,shift,3,Train,10,0.5,0.48,0.02
+Small CNN,shift,3,Vacuum cleaner fan and hairdryer,15,0.385,0.4,-0.015
+Small CNN,shift,3,Vehicle idling,17,0.593,0.615,-0.023
+Small CNN,shift,3,Vehicle pass-by,33,0.515,0.444,0.071
+Small CNN,shift,3,Voices,285,0.983,0.988,-0.005
+Small CNN,shift,3,Wind turbine,15,0.968,0.968,0.0
+Small CNN,shift,3,Workshop,33,0.787,0.794,-0.007
+Small CNN,time_mask,1,Bells,10,0.737,0.5,0.237
+Small CNN,time_mask,1,Birds,10,0.556,0.286,0.27
+Small CNN,time_mask,1,Cat fights and moans,7,0.667,0.714,-0.048
+Small CNN,time_mask,1,Chicken coop,8,0.714,0.364,0.351
+Small CNN,time_mask,1,Cicadas and crickets,11,0.833,0.87,-0.036
+Small CNN,time_mask,1,Crows seagulls and magpies,16,0.733,0.0,0.733
+Small CNN,time_mask,1,Dog barkings and howlings,10,0.706,0.333,0.373
+Small CNN,time_mask,1,Glass breaking,17,0.941,0.839,0.102
+Small CNN,time_mask,1,Horn,8,0.667,0.48,0.187
+Small CNN,time_mask,1,Jet aircrafts,16,0.514,0.316,0.198
+Small CNN,time_mask,1,Lawn mower brush cutter and olive shaker,19,0.638,0.0,0.638
+Small CNN,time_mask,1,Music,150,0.973,0.81,0.164
+Small CNN,time_mask,1,Propeller aircrafts,16,0.688,0.688,0.0
+Small CNN,time_mask,1,Sirens and alarms,16,0.71,0.692,0.017
+Small CNN,time_mask,1,Thunder fireworks and gunshot,36,0.901,0.725,0.176
+Small CNN,time_mask,1,Train,10,0.5,0.0,0.5
+Small CNN,time_mask,1,Vacuum cleaner fan and hairdryer,15,0.385,0.0,0.385
+Small CNN,time_mask,1,Vehicle idling,17,0.593,0.111,0.481
+Small CNN,time_mask,1,Vehicle pass-by,33,0.515,0.38,0.135
+Small CNN,time_mask,1,Voices,285,0.983,0.882,0.1
+Small CNN,time_mask,1,Wind turbine,15,0.968,0.571,0.396
+Small CNN,time_mask,1,Workshop,33,0.787,0.698,0.088
+Small CNN,time_mask,2,Bells,10,0.737,0.5,0.237
+Small CNN,time_mask,2,Birds,10,0.556,0.182,0.374
+Small CNN,time_mask,2,Cat fights and moans,7,0.667,0.0,0.667
+Small CNN,time_mask,2,Chicken coop,8,0.714,0.258,0.456
+Small CNN,time_mask,2,Cicadas and crickets,11,0.833,0.0,0.833
+Small CNN,time_mask,2,Crows seagulls and magpies,16,0.733,0.0,0.733
+Small CNN,time_mask,2,Dog barkings and howlings,10,0.706,0.381,0.325
+Small CNN,time_mask,2,Glass breaking,17,0.941,0.489,0.452
+Small CNN,time_mask,2,Horn,8,0.667,0.308,0.359
+Small CNN,time_mask,2,Jet aircrafts,16,0.514,0.0,0.514
+Small CNN,time_mask,2,Lawn mower brush cutter and olive shaker,19,0.638,0.0,0.638
+Small CNN,time_mask,2,Music,150,0.973,0.555,0.418
+Small CNN,time_mask,2,Propeller aircrafts,16,0.688,0.0,0.688
+Small CNN,time_mask,2,Sirens and alarms,16,0.71,0.0,0.71
+Small CNN,time_mask,2,Thunder fireworks and gunshot,36,0.901,0.256,0.645
+Small CNN,time_mask,2,Train,10,0.5,0.0,0.5
+Small CNN,time_mask,2,Vacuum cleaner fan and hairdryer,15,0.385,0.0,0.385
+Small CNN,time_mask,2,Vehicle idling,17,0.593,0.0,0.593
+Small CNN,time_mask,2,Vehicle pass-by,33,0.515,0.0,0.515
+Small CNN,time_mask,2,Voices,285,0.983,0.911,0.071
+Small CNN,time_mask,2,Wind turbine,15,0.968,0.0,0.968
+Small CNN,time_mask,2,Workshop,33,0.787,0.538,0.248
+Small CNN,time_mask,3,Bells,10,0.737,0.0,0.737
+Small CNN,time_mask,3,Birds,10,0.556,0.0,0.556
+Small CNN,time_mask,3,Cat fights and moans,7,0.667,0.0,0.667
+Small CNN,time_mask,3,Chicken coop,8,0.714,0.091,0.623
+Small CNN,time_mask,3,Cicadas and crickets,11,0.833,0.0,0.833
+Small CNN,time_mask,3,Crows seagulls and magpies,16,0.733,0.0,0.733
+Small CNN,time_mask,3,Dog barkings and howlings,10,0.706,0.1,0.606
+Small CNN,time_mask,3,Glass breaking,17,0.941,0.25,0.691
+Small CNN,time_mask,3,Horn,8,0.667,0.161,0.505
+Small CNN,time_mask,3,Jet aircrafts,16,0.514,0.0,0.514
+Small CNN,time_mask,3,Lawn mower brush cutter and olive shaker,19,0.638,0.0,0.638
+Small CNN,time_mask,3,Music,150,0.973,0.013,0.96
+Small CNN,time_mask,3,Propeller aircrafts,16,0.688,0.0,0.688
+Small CNN,time_mask,3,Sirens and alarms,16,0.71,0.0,0.71
+Small CNN,time_mask,3,Thunder fireworks and gunshot,36,0.901,0.224,0.678
+Small CNN,time_mask,3,Train,10,0.5,0.0,0.5
+Small CNN,time_mask,3,Vacuum cleaner fan and hairdryer,15,0.385,0.0,0.385
+Small CNN,time_mask,3,Vehicle idling,17,0.593,0.0,0.593
+Small CNN,time_mask,3,Vehicle pass-by,33,0.515,0.0,0.515
+Small CNN,time_mask,3,Voices,285,0.983,0.835,0.148
+Small CNN,time_mask,3,Wind turbine,15,0.968,0.0,0.968
+Small CNN,time_mask,3,Workshop,33,0.787,0.256,0.53
+Small CNN,freq_mask,1,Bells,10,0.737,0.556,0.181
+Small CNN,freq_mask,1,Birds,10,0.556,0.5,0.056
+Small CNN,freq_mask,1,Cat fights and moans,7,0.667,0.545,0.121
+Small CNN,freq_mask,1,Chicken coop,8,0.714,0.471,0.244
+Small CNN,freq_mask,1,Cicadas and crickets,11,0.833,0.556,0.278
+Small CNN,freq_mask,1,Crows seagulls and magpies,16,0.733,0.545,0.188
+Small CNN,freq_mask,1,Dog barkings and howlings,10,0.706,0.588,0.118
+Small CNN,freq_mask,1,Glass breaking,17,0.941,0.583,0.358
+Small CNN,freq_mask,1,Horn,8,0.667,0.462,0.205
+Small CNN,freq_mask,1,Jet aircrafts,16,0.514,0.562,-0.048
+Small CNN,freq_mask,1,Lawn mower brush cutter and olive shaker,19,0.638,0.571,0.067
+Small CNN,freq_mask,1,Music,150,0.973,0.909,0.064
+Small CNN,freq_mask,1,Propeller aircrafts,16,0.688,0.579,0.109
+Small CNN,freq_mask,1,Sirens and alarms,16,0.71,0.325,0.385
+Small CNN,freq_mask,1,Thunder fireworks and gunshot,36,0.901,0.882,0.019
+Small CNN,freq_mask,1,Train,10,0.5,0.0,0.5
+Small CNN,freq_mask,1,Vacuum cleaner fan and hairdryer,15,0.385,0.167,0.218
+Small CNN,freq_mask,1,Vehicle idling,17,0.593,0.37,0.222
+Small CNN,freq_mask,1,Vehicle pass-by,33,0.515,0.475,0.041
+Small CNN,freq_mask,1,Voices,285,0.983,0.973,0.009
+Small CNN,freq_mask,1,Wind turbine,15,0.968,1.0,-0.032
+Small CNN,freq_mask,1,Workshop,33,0.787,0.679,0.108
+Small CNN,freq_mask,2,Bells,10,0.737,0.455,0.282
+Small CNN,freq_mask,2,Birds,10,0.556,0.385,0.171
+Small CNN,freq_mask,2,Cat fights and moans,7,0.667,0.5,0.167
+Small CNN,freq_mask,2,Chicken coop,8,0.714,0.143,0.571
+Small CNN,freq_mask,2,Cicadas and crickets,11,0.833,0.667,0.167
+Small CNN,freq_mask,2,Crows seagulls and magpies,16,0.733,0.222,0.511
+Small CNN,freq_mask,2,Dog barkings and howlings,10,0.706,0.632,0.074
+Small CNN,freq_mask,2,Glass breaking,17,0.941,0.522,0.419
+Small CNN,freq_mask,2,Horn,8,0.667,0.333,0.333
+Small CNN,freq_mask,2,Jet aircrafts,16,0.514,0.444,0.07
+Small CNN,freq_mask,2,Lawn mower brush cutter and olive shaker,19,0.638,0.0,0.638
+Small CNN,freq_mask,2,Music,150,0.973,0.634,0.339
+Small CNN,freq_mask,2,Propeller aircrafts,16,0.688,0.462,0.226
+Small CNN,freq_mask,2,Sirens and alarms,16,0.71,0.1,0.61
+Small CNN,freq_mask,2,Thunder fireworks and gunshot,36,0.901,0.879,0.023
+Small CNN,freq_mask,2,Train,10,0.5,0.0,0.5
+Small CNN,freq_mask,2,Vacuum cleaner fan and hairdryer,15,0.385,0.0,0.385
+Small CNN,freq_mask,2,Vehicle idling,17,0.593,0.286,0.307
+Small CNN,freq_mask,2,Vehicle pass-by,33,0.515,0.108,0.407
+Small CNN,freq_mask,2,Voices,285,0.983,0.878,0.104
+Small CNN,freq_mask,2,Wind turbine,15,0.968,0.966,0.002
+Small CNN,freq_mask,2,Workshop,33,0.787,0.263,0.524
+Small CNN,freq_mask,3,Bells,10,0.737,0.111,0.626
+Small CNN,freq_mask,3,Birds,10,0.556,0.32,0.236
+Small CNN,freq_mask,3,Cat fights and moans,7,0.667,0.571,0.095
+Small CNN,freq_mask,3,Chicken coop,8,0.714,0.133,0.581
+Small CNN,freq_mask,3,Cicadas and crickets,11,0.833,0.476,0.357
+Small CNN,freq_mask,3,Crows seagulls and magpies,16,0.733,0.0,0.733
+Small CNN,freq_mask,3,Dog barkings and howlings,10,0.706,0.364,0.342
+Small CNN,freq_mask,3,Glass breaking,17,0.941,0.111,0.83
+Small CNN,freq_mask,3,Horn,8,0.667,0.375,0.292
+Small CNN,freq_mask,3,Jet aircrafts,16,0.514,0.435,0.08
+Small CNN,freq_mask,3,Lawn mower brush cutter and olive shaker,19,0.638,0.0,0.638
+Small CNN,freq_mask,3,Music,150,0.973,0.289,0.684
+Small CNN,freq_mask,3,Propeller aircrafts,16,0.688,0.222,0.465
+Small CNN,freq_mask,3,Sirens and alarms,16,0.71,0.081,0.629
+Small CNN,freq_mask,3,Thunder fireworks and gunshot,36,0.901,0.82,0.082
+Small CNN,freq_mask,3,Train,10,0.5,0.0,0.5
+Small CNN,freq_mask,3,Vacuum cleaner fan and hairdryer,15,0.385,0.0,0.385
+Small CNN,freq_mask,3,Vehicle idling,17,0.593,0.0,0.593
+Small CNN,freq_mask,3,Vehicle pass-by,33,0.515,0.059,0.456
+Small CNN,freq_mask,3,Voices,285,0.983,0.871,0.111
+Small CNN,freq_mask,3,Wind turbine,15,0.968,0.966,0.002
+Small CNN,freq_mask,3,Workshop,33,0.787,0.111,0.676
+MobileNetV3-Small,noise_pink,1,Bells,10,1.0,0.842,0.158
+MobileNetV3-Small,noise_pink,1,Birds,10,0.842,0.889,-0.047
+MobileNetV3-Small,noise_pink,1,Cat fights and moans,7,1.0,1.0,0.0
+MobileNetV3-Small,noise_pink,1,Chicken coop,8,1.0,0.769,0.231
+MobileNetV3-Small,noise_pink,1,Cicadas and crickets,11,0.87,0.88,-0.01
+MobileNetV3-Small,noise_pink,1,Crows seagulls and magpies,16,0.909,0.811,0.098
+MobileNetV3-Small,noise_pink,1,Dog barkings and howlings,10,1.0,0.696,0.304
+MobileNetV3-Small,noise_pink,1,Glass breaking,17,0.97,0.97,0.0
+MobileNetV3-Small,noise_pink,1,Horn,8,0.8,0.667,0.133
+MobileNetV3-Small,noise_pink,1,Jet aircrafts,16,0.857,0.621,0.236
+MobileNetV3-Small,noise_pink,1,Lawn mower brush cutter and olive shaker,19,0.791,0.64,0.151
+MobileNetV3-Small,noise_pink,1,Music,150,0.993,0.973,0.021
+MobileNetV3-Small,noise_pink,1,Propeller aircrafts,16,0.8,0.48,0.32
+MobileNetV3-Small,noise_pink,1,Sirens and alarms,16,0.867,0.857,0.01
+MobileNetV3-Small,noise_pink,1,Thunder fireworks and gunshot,36,1.0,0.944,0.056
+MobileNetV3-Small,noise_pink,1,Train,10,0.909,0.625,0.284
+MobileNetV3-Small,noise_pink,1,Vacuum cleaner fan and hairdryer,15,0.733,0.611,0.122
+MobileNetV3-Small,noise_pink,1,Vehicle idling,17,0.69,0.486,0.203
+MobileNetV3-Small,noise_pink,1,Vehicle pass-by,33,0.839,0.721,0.117
+MobileNetV3-Small,noise_pink,1,Voices,285,0.998,0.998,0.0
+MobileNetV3-Small,noise_pink,1,Wind turbine,15,1.0,0.636,0.364
+MobileNetV3-Small,noise_pink,1,Workshop,33,0.879,0.833,0.045
+MobileNetV3-Small,noise_pink,2,Bells,10,1.0,0.75,0.25
+MobileNetV3-Small,noise_pink,2,Birds,10,0.842,0.762,0.08
+MobileNetV3-Small,noise_pink,2,Cat fights and moans,7,1.0,0.632,0.368
+MobileNetV3-Small,noise_pink,2,Chicken coop,8,1.0,0.222,0.778
+MobileNetV3-Small,noise_pink,2,Cicadas and crickets,11,0.87,0.917,-0.047
+MobileNetV3-Small,noise_pink,2,Crows seagulls and magpies,16,0.909,0.667,0.242
+MobileNetV3-Small,noise_pink,2,Dog barkings and howlings,10,1.0,0.286,0.714
+MobileNetV3-Small,noise_pink,2,Glass breaking,17,0.97,0.909,0.061
+MobileNetV3-Small,noise_pink,2,Horn,8,0.8,0.667,0.133
+MobileNetV3-Small,noise_pink,2,Jet aircrafts,16,0.857,0.5,0.357
+MobileNetV3-Small,noise_pink,2,Lawn mower brush cutter and olive shaker,19,0.791,0.533,0.257
+MobileNetV3-Small,noise_pink,2,Music,150,0.993,0.896,0.097
+MobileNetV3-Small,noise_pink,2,Propeller aircrafts,16,0.8,0.273,0.527
+MobileNetV3-Small,noise_pink,2,Sirens and alarms,16,0.867,0.75,0.117
+MobileNetV3-Small,noise_pink,2,Thunder fireworks and gunshot,36,1.0,0.875,0.125
+MobileNetV3-Small,noise_pink,2,Train,10,0.909,0.213,0.696
+MobileNetV3-Small,noise_pink,2,Vacuum cleaner fan and hairdryer,15,0.733,0.611,0.122
+MobileNetV3-Small,noise_pink,2,Vehicle idling,17,0.69,0.357,0.333
+MobileNetV3-Small,noise_pink,2,Vehicle pass-by,33,0.839,0.54,0.299
+MobileNetV3-Small,noise_pink,2,Voices,285,0.998,0.935,0.064
+MobileNetV3-Small,noise_pink,2,Wind turbine,15,1.0,0.0,1.0
+MobileNetV3-Small,noise_pink,2,Workshop,33,0.879,0.741,0.138
+MobileNetV3-Small,noise_pink,3,Bells,10,1.0,0.182,0.818
+MobileNetV3-Small,noise_pink,3,Birds,10,0.842,0.8,0.042
+MobileNetV3-Small,noise_pink,3,Cat fights and moans,7,1.0,0.632,0.368
+MobileNetV3-Small,noise_pink,3,Chicken coop,8,1.0,0.0,1.0
+MobileNetV3-Small,noise_pink,3,Cicadas and crickets,11,0.87,0.842,0.027
+MobileNetV3-Small,noise_pink,3,Crows seagulls and magpies,16,0.909,0.718,0.191
+MobileNetV3-Small,noise_pink,3,Dog barkings and howlings,10,1.0,0.0,1.0
+MobileNetV3-Small,noise_pink,3,Glass breaking,17,0.97,0.522,0.448
+MobileNetV3-Small,noise_pink,3,Horn,8,0.8,0.222,0.578
+MobileNetV3-Small,noise_pink,3,Jet aircrafts,16,0.857,0.0,0.857
+MobileNetV3-Small,noise_pink,3,Lawn mower brush cutter and olive shaker,19,0.791,0.278,0.513
+MobileNetV3-Small,noise_pink,3,Music,150,0.993,0.422,0.571
+MobileNetV3-Small,noise_pink,3,Propeller aircrafts,16,0.8,0.3,0.5
+MobileNetV3-Small,noise_pink,3,Sirens and alarms,16,0.867,0.622,0.244
+MobileNetV3-Small,noise_pink,3,Thunder fireworks and gunshot,36,1.0,0.255,0.745
+MobileNetV3-Small,noise_pink,3,Train,10,0.909,0.051,0.858
+MobileNetV3-Small,noise_pink,3,Vacuum cleaner fan and hairdryer,15,0.733,0.242,0.491
+MobileNetV3-Small,noise_pink,3,Vehicle idling,17,0.69,0.174,0.516
+MobileNetV3-Small,noise_pink,3,Vehicle pass-by,33,0.839,0.303,0.536
+MobileNetV3-Small,noise_pink,3,Voices,285,0.998,0.293,0.706
+MobileNetV3-Small,noise_pink,3,Wind turbine,15,1.0,0.0,1.0
+MobileNetV3-Small,noise_pink,3,Workshop,33,0.879,0.263,0.616
+MobileNetV3-Small,noise_mix,1,Bells,10,1.0,0.783,0.217
+MobileNetV3-Small,noise_mix,1,Birds,10,0.842,0.64,0.202
+MobileNetV3-Small,noise_mix,1,Cat fights and moans,7,1.0,0.632,0.368
+MobileNetV3-Small,noise_mix,1,Chicken coop,8,1.0,0.75,0.25
+MobileNetV3-Small,noise_mix,1,Cicadas and crickets,11,0.87,0.72,0.15
+MobileNetV3-Small,noise_mix,1,Crows seagulls and magpies,16,0.909,0.778,0.131
+MobileNetV3-Small,noise_mix,1,Dog barkings and howlings,10,1.0,0.522,0.478
+MobileNetV3-Small,noise_mix,1,Glass breaking,17,0.97,0.714,0.255
+MobileNetV3-Small,noise_mix,1,Horn,8,0.8,0.308,0.492
+MobileNetV3-Small,noise_mix,1,Jet aircrafts,16,0.857,0.788,0.069
+MobileNetV3-Small,noise_mix,1,Lawn mower brush cutter and olive shaker,19,0.791,0.739,0.052
+MobileNetV3-Small,noise_mix,1,Music,150,0.993,0.939,0.054
+MobileNetV3-Small,noise_mix,1,Propeller aircrafts,16,0.8,0.632,0.168
+MobileNetV3-Small,noise_mix,1,Sirens and alarms,16,0.867,0.789,0.077
+MobileNetV3-Small,noise_mix,1,Thunder fireworks and gunshot,36,1.0,0.831,0.169
+MobileNetV3-Small,noise_mix,1,Train,10,0.909,0.769,0.14
+MobileNetV3-Small,noise_mix,1,Vacuum cleaner fan and hairdryer,15,0.733,0.611,0.122
+MobileNetV3-Small,noise_mix,1,Vehicle idling,17,0.69,0.364,0.326
+MobileNetV3-Small,noise_mix,1,Vehicle pass-by,33,0.839,0.781,0.057
+MobileNetV3-Small,noise_mix,1,Voices,285,0.998,0.888,0.11
+MobileNetV3-Small,noise_mix,1,Wind turbine,15,1.0,0.421,0.579
+MobileNetV3-Small,noise_mix,1,Workshop,33,0.879,0.806,0.073
+MobileNetV3-Small,noise_mix,2,Bells,10,1.0,0.5,0.5
+MobileNetV3-Small,noise_mix,2,Birds,10,0.842,0.444,0.398
+MobileNetV3-Small,noise_mix,2,Cat fights and moans,7,1.0,0.345,0.655
+MobileNetV3-Small,noise_mix,2,Chicken coop,8,1.0,0.316,0.684
+MobileNetV3-Small,noise_mix,2,Cicadas and crickets,11,0.87,0.593,0.277
+MobileNetV3-Small,noise_mix,2,Crows seagulls and magpies,16,0.909,0.703,0.206
+MobileNetV3-Small,noise_mix,2,Dog barkings and howlings,10,1.0,0.348,0.652
+MobileNetV3-Small,noise_mix,2,Glass breaking,17,0.97,0.571,0.398
+MobileNetV3-Small,noise_mix,2,Horn,8,0.8,0.154,0.646
+MobileNetV3-Small,noise_mix,2,Jet aircrafts,16,0.857,0.409,0.448
+MobileNetV3-Small,noise_mix,2,Lawn mower brush cutter and olive shaker,19,0.791,0.484,0.307
+MobileNetV3-Small,noise_mix,2,Music,150,0.993,0.846,0.147
+MobileNetV3-Small,noise_mix,2,Propeller aircrafts,16,0.8,0.316,0.484
+MobileNetV3-Small,noise_mix,2,Sirens and alarms,16,0.867,0.578,0.289
+MobileNetV3-Small,noise_mix,2,Thunder fireworks and gunshot,36,1.0,0.436,0.564
+MobileNetV3-Small,noise_mix,2,Train,10,0.909,0.4,0.509
+MobileNetV3-Small,noise_mix,2,Vacuum cleaner fan and hairdryer,15,0.733,0.486,0.247
+MobileNetV3-Small,noise_mix,2,Vehicle idling,17,0.69,0.438,0.252
+MobileNetV3-Small,noise_mix,2,Vehicle pass-by,33,0.839,0.5,0.339
+MobileNetV3-Small,noise_mix,2,Voices,285,0.998,0.668,0.33
+MobileNetV3-Small,noise_mix,2,Wind turbine,15,1.0,0.125,0.875
+MobileNetV3-Small,noise_mix,2,Workshop,33,0.879,0.658,0.221
+MobileNetV3-Small,noise_mix,3,Bells,10,1.0,0.467,0.533
+MobileNetV3-Small,noise_mix,3,Birds,10,0.842,0.176,0.666
+MobileNetV3-Small,noise_mix,3,Cat fights and moans,7,1.0,0.154,0.846
+MobileNetV3-Small,noise_mix,3,Chicken coop,8,1.0,0.095,0.905
+MobileNetV3-Small,noise_mix,3,Cicadas and crickets,11,0.87,0.207,0.663
+MobileNetV3-Small,noise_mix,3,Crows seagulls and magpies,16,0.909,0.326,0.584
+MobileNetV3-Small,noise_mix,3,Dog barkings and howlings,10,1.0,0.0,1.0
+MobileNetV3-Small,noise_mix,3,Glass breaking,17,0.97,0.367,0.602
+MobileNetV3-Small,noise_mix,3,Horn,8,0.8,0.0,0.8
+MobileNetV3-Small,noise_mix,3,Jet aircrafts,16,0.857,0.0,0.857
+MobileNetV3-Small,noise_mix,3,Lawn mower brush cutter and olive shaker,19,0.791,0.291,0.5
+MobileNetV3-Small,noise_mix,3,Music,150,0.993,0.696,0.297
+MobileNetV3-Small,noise_mix,3,Propeller aircrafts,16,0.8,0.047,0.753
+MobileNetV3-Small,noise_mix,3,Sirens and alarms,16,0.867,0.333,0.533
+MobileNetV3-Small,noise_mix,3,Thunder fireworks and gunshot,36,1.0,0.196,0.804
+MobileNetV3-Small,noise_mix,3,Train,10,0.909,0.255,0.655
+MobileNetV3-Small,noise_mix,3,Vacuum cleaner fan and hairdryer,15,0.733,0.047,0.687
+MobileNetV3-Small,noise_mix,3,Vehicle idling,17,0.69,0.114,0.575
+MobileNetV3-Small,noise_mix,3,Vehicle pass-by,33,0.839,0.197,0.642
+MobileNetV3-Small,noise_mix,3,Voices,285,0.998,0.282,0.716
+MobileNetV3-Small,noise_mix,3,Wind turbine,15,1.0,0.0,1.0
+MobileNetV3-Small,noise_mix,3,Workshop,33,0.879,0.411,0.468
+MobileNetV3-Small,gain,1,Bells,10,1.0,1.0,0.0
+MobileNetV3-Small,gain,1,Birds,10,0.842,0.842,0.0
+MobileNetV3-Small,gain,1,Cat fights and moans,7,1.0,1.0,0.0
+MobileNetV3-Small,gain,1,Chicken coop,8,1.0,1.0,0.0
+MobileNetV3-Small,gain,1,Cicadas and crickets,11,0.87,0.87,0.0
+MobileNetV3-Small,gain,1,Crows seagulls and magpies,16,0.909,0.909,0.0
+MobileNetV3-Small,gain,1,Dog barkings and howlings,10,1.0,1.0,0.0
+MobileNetV3-Small,gain,1,Glass breaking,17,0.97,0.97,0.0
+MobileNetV3-Small,gain,1,Horn,8,0.8,0.8,0.0
+MobileNetV3-Small,gain,1,Jet aircrafts,16,0.857,0.833,0.024
+MobileNetV3-Small,gain,1,Lawn mower brush cutter and olive shaker,19,0.791,0.78,0.01
+MobileNetV3-Small,gain,1,Music,150,0.993,0.993,0.0
+MobileNetV3-Small,gain,1,Propeller aircrafts,16,0.8,0.8,0.0
+MobileNetV3-Small,gain,1,Sirens and alarms,16,0.867,0.839,0.028
+MobileNetV3-Small,gain,1,Thunder fireworks and gunshot,36,1.0,1.0,0.0
+MobileNetV3-Small,gain,1,Train,10,0.909,0.909,0.0
+MobileNetV3-Small,gain,1,Vacuum cleaner fan and hairdryer,15,0.733,0.788,-0.055
+MobileNetV3-Small,gain,1,Vehicle idling,17,0.69,0.714,-0.025
+MobileNetV3-Small,gain,1,Vehicle pass-by,33,0.839,0.852,-0.014
+MobileNetV3-Small,gain,1,Voices,285,0.998,0.998,0.0
+MobileNetV3-Small,gain,1,Wind turbine,15,1.0,1.0,0.0
+MobileNetV3-Small,gain,1,Workshop,33,0.879,0.862,0.017
+MobileNetV3-Small,gain,2,Bells,10,1.0,0.952,0.048
+MobileNetV3-Small,gain,2,Birds,10,0.842,0.842,0.0
+MobileNetV3-Small,gain,2,Cat fights and moans,7,1.0,1.0,0.0
+MobileNetV3-Small,gain,2,Chicken coop,8,1.0,1.0,0.0
+MobileNetV3-Small,gain,2,Cicadas and crickets,11,0.87,0.917,-0.047
+MobileNetV3-Small,gain,2,Crows seagulls and magpies,16,0.909,0.938,-0.028
+MobileNetV3-Small,gain,2,Dog barkings and howlings,10,1.0,1.0,0.0
+MobileNetV3-Small,gain,2,Glass breaking,17,0.97,0.971,-0.002
+MobileNetV3-Small,gain,2,Horn,8,0.8,0.857,-0.057
+MobileNetV3-Small,gain,2,Jet aircrafts,16,0.857,0.857,0.0
+MobileNetV3-Small,gain,2,Lawn mower brush cutter and olive shaker,19,0.791,0.773,0.018
+MobileNetV3-Small,gain,2,Music,150,0.993,0.986,0.007
+MobileNetV3-Small,gain,2,Propeller aircrafts,16,0.8,0.857,-0.057
+MobileNetV3-Small,gain,2,Sirens and alarms,16,0.867,0.867,0.0
+MobileNetV3-Small,gain,2,Thunder fireworks and gunshot,36,1.0,1.0,0.0
+MobileNetV3-Small,gain,2,Train,10,0.909,0.857,0.052
+MobileNetV3-Small,gain,2,Vacuum cleaner fan and hairdryer,15,0.733,0.714,0.019
+MobileNetV3-Small,gain,2,Vehicle idling,17,0.69,0.688,0.002
+MobileNetV3-Small,gain,2,Vehicle pass-by,33,0.839,0.839,0.0
+MobileNetV3-Small,gain,2,Voices,285,0.998,0.998,0.0
+MobileNetV3-Small,gain,2,Wind turbine,15,1.0,1.0,0.0
+MobileNetV3-Small,gain,2,Workshop,33,0.879,0.831,0.048
+MobileNetV3-Small,gain,3,Bells,10,1.0,0.952,0.048
+MobileNetV3-Small,gain,3,Birds,10,0.842,0.8,0.042
+MobileNetV3-Small,gain,3,Cat fights and moans,7,1.0,0.933,0.067
+MobileNetV3-Small,gain,3,Chicken coop,8,1.0,0.857,0.143
+MobileNetV3-Small,gain,3,Cicadas and crickets,11,0.87,0.87,0.0
+MobileNetV3-Small,gain,3,Crows seagulls and magpies,16,0.909,0.903,0.006
+MobileNetV3-Small,gain,3,Dog barkings and howlings,10,1.0,0.857,0.143
+MobileNetV3-Small,gain,3,Glass breaking,17,0.97,0.971,-0.002
+MobileNetV3-Small,gain,3,Horn,8,0.8,0.857,-0.057
+MobileNetV3-Small,gain,3,Jet aircrafts,16,0.857,0.821,0.037
+MobileNetV3-Small,gain,3,Lawn mower brush cutter and olive shaker,19,0.791,0.711,0.08
+MobileNetV3-Small,gain,3,Music,150,0.993,0.983,0.01
+MobileNetV3-Small,gain,3,Propeller aircrafts,16,0.8,0.848,-0.048
+MobileNetV3-Small,gain,3,Sirens and alarms,16,0.867,0.839,0.028
+MobileNetV3-Small,gain,3,Thunder fireworks and gunshot,36,1.0,1.0,0.0
+MobileNetV3-Small,gain,3,Train,10,0.909,0.625,0.284
+MobileNetV3-Small,gain,3,Vacuum cleaner fan and hairdryer,15,0.733,0.69,0.044
+MobileNetV3-Small,gain,3,Vehicle idling,17,0.69,0.629,0.061
+MobileNetV3-Small,gain,3,Vehicle pass-by,33,0.839,0.82,0.019
+MobileNetV3-Small,gain,3,Voices,285,0.998,0.998,0.0
+MobileNetV3-Small,gain,3,Wind turbine,15,1.0,0.968,0.032
+MobileNetV3-Small,gain,3,Workshop,33,0.879,0.812,0.066
+MobileNetV3-Small,shift,1,Bells,10,1.0,1.0,0.0
+MobileNetV3-Small,shift,1,Birds,10,0.842,0.762,0.08
+MobileNetV3-Small,shift,1,Cat fights and moans,7,1.0,1.0,0.0
+MobileNetV3-Small,shift,1,Chicken coop,8,1.0,1.0,0.0
+MobileNetV3-Small,shift,1,Cicadas and crickets,11,0.87,0.87,0.0
+MobileNetV3-Small,shift,1,Crows seagulls and magpies,16,0.909,0.938,-0.028
+MobileNetV3-Small,shift,1,Dog barkings and howlings,10,1.0,1.0,0.0
+MobileNetV3-Small,shift,1,Glass breaking,17,0.97,0.971,-0.002
+MobileNetV3-Small,shift,1,Horn,8,0.8,0.769,0.031
+MobileNetV3-Small,shift,1,Jet aircrafts,16,0.857,0.842,0.015
+MobileNetV3-Small,shift,1,Lawn mower brush cutter and olive shaker,19,0.791,0.791,0.0
+MobileNetV3-Small,shift,1,Music,150,0.993,0.99,0.003
+MobileNetV3-Small,shift,1,Propeller aircrafts,16,0.8,0.875,-0.075
+MobileNetV3-Small,shift,1,Sirens and alarms,16,0.867,0.867,0.0
+MobileNetV3-Small,shift,1,Thunder fireworks and gunshot,36,1.0,1.0,0.0
+MobileNetV3-Small,shift,1,Train,10,0.909,0.818,0.091
+MobileNetV3-Small,shift,1,Vacuum cleaner fan and hairdryer,15,0.733,0.733,0.0
+MobileNetV3-Small,shift,1,Vehicle idling,17,0.69,0.71,-0.02
+MobileNetV3-Small,shift,1,Vehicle pass-by,33,0.839,0.833,0.005
+MobileNetV3-Small,shift,1,Voices,285,0.998,1.0,-0.002
+MobileNetV3-Small,shift,1,Wind turbine,15,1.0,1.0,0.0
+MobileNetV3-Small,shift,1,Workshop,33,0.879,0.836,0.043
+MobileNetV3-Small,shift,2,Bells,10,1.0,1.0,0.0
+MobileNetV3-Small,shift,2,Birds,10,0.842,0.889,-0.047
+MobileNetV3-Small,shift,2,Cat fights and moans,7,1.0,1.0,0.0
+MobileNetV3-Small,shift,2,Chicken coop,8,1.0,1.0,0.0
+MobileNetV3-Small,shift,2,Cicadas and crickets,11,0.87,0.917,-0.047
+MobileNetV3-Small,shift,2,Crows seagulls and magpies,16,0.909,0.909,0.0
+MobileNetV3-Small,shift,2,Dog barkings and howlings,10,1.0,1.0,0.0
+MobileNetV3-Small,shift,2,Glass breaking,17,0.97,0.971,-0.002
+MobileNetV3-Small,shift,2,Horn,8,0.8,0.769,0.031
+MobileNetV3-Small,shift,2,Jet aircrafts,16,0.857,0.842,0.015
+MobileNetV3-Small,shift,2,Lawn mower brush cutter and olive shaker,19,0.791,0.773,0.018
+MobileNetV3-Small,shift,2,Music,150,0.993,0.99,0.003
+MobileNetV3-Small,shift,2,Propeller aircrafts,16,0.8,0.875,-0.075
+MobileNetV3-Small,shift,2,Sirens and alarms,16,0.867,0.867,0.0
+MobileNetV3-Small,shift,2,Thunder fireworks and gunshot,36,1.0,1.0,0.0
+MobileNetV3-Small,shift,2,Train,10,0.909,0.818,0.091
+MobileNetV3-Small,shift,2,Vacuum cleaner fan and hairdryer,15,0.733,0.69,0.044
+MobileNetV3-Small,shift,2,Vehicle idling,17,0.69,0.688,0.002
+MobileNetV3-Small,shift,2,Vehicle pass-by,33,0.839,0.814,0.025
+MobileNetV3-Small,shift,2,Voices,285,0.998,0.998,0.0
+MobileNetV3-Small,shift,2,Wind turbine,15,1.0,1.0,0.0
+MobileNetV3-Small,shift,2,Workshop,33,0.879,0.896,-0.017
+MobileNetV3-Small,shift,3,Bells,10,1.0,1.0,0.0
+MobileNetV3-Small,shift,3,Birds,10,0.842,0.889,-0.047
+MobileNetV3-Small,shift,3,Cat fights and moans,7,1.0,1.0,0.0
+MobileNetV3-Small,shift,3,Chicken coop,8,1.0,0.875,0.125
+MobileNetV3-Small,shift,3,Cicadas and crickets,11,0.87,0.917,-0.047
+MobileNetV3-Small,shift,3,Crows seagulls and magpies,16,0.909,0.941,-0.032
+MobileNetV3-Small,shift,3,Dog barkings and howlings,10,1.0,0.952,0.048
+MobileNetV3-Small,shift,3,Glass breaking,17,0.97,0.914,0.055
+MobileNetV3-Small,shift,3,Horn,8,0.8,0.769,0.031
+MobileNetV3-Small,shift,3,Jet aircrafts,16,0.857,0.857,0.0
+MobileNetV3-Small,shift,3,Lawn mower brush cutter and olive shaker,19,0.791,0.821,-0.03
+MobileNetV3-Small,shift,3,Music,150,0.993,0.99,0.003
+MobileNetV3-Small,shift,3,Propeller aircrafts,16,0.8,0.824,-0.024
+MobileNetV3-Small,shift,3,Sirens and alarms,16,0.867,0.867,0.0
+MobileNetV3-Small,shift,3,Thunder fireworks and gunshot,36,1.0,1.0,0.0
+MobileNetV3-Small,shift,3,Train,10,0.909,0.762,0.147
+MobileNetV3-Small,shift,3,Vacuum cleaner fan and hairdryer,15,0.733,0.71,0.024
+MobileNetV3-Small,shift,3,Vehicle idling,17,0.69,0.706,-0.016
+MobileNetV3-Small,shift,3,Vehicle pass-by,33,0.839,0.774,0.065
+MobileNetV3-Small,shift,3,Voices,285,0.998,1.0,-0.002
+MobileNetV3-Small,shift,3,Wind turbine,15,1.0,1.0,0.0
+MobileNetV3-Small,shift,3,Workshop,33,0.879,0.848,0.03
+MobileNetV3-Small,time_mask,1,Bells,10,1.0,1.0,0.0
+MobileNetV3-Small,time_mask,1,Birds,10,0.842,0.737,0.105
+MobileNetV3-Small,time_mask,1,Cat fights and moans,7,1.0,0.923,0.077
+MobileNetV3-Small,time_mask,1,Chicken coop,8,1.0,0.941,0.059
+MobileNetV3-Small,time_mask,1,Cicadas and crickets,11,0.87,0.87,0.0
+MobileNetV3-Small,time_mask,1,Crows seagulls and magpies,16,0.909,0.867,0.042
+MobileNetV3-Small,time_mask,1,Dog barkings and howlings,10,1.0,0.9,0.1
+MobileNetV3-Small,time_mask,1,Glass breaking,17,0.97,0.78,0.189
+MobileNetV3-Small,time_mask,1,Horn,8,0.8,0.857,-0.057
+MobileNetV3-Small,time_mask,1,Jet aircrafts,16,0.857,0.56,0.297
+MobileNetV3-Small,time_mask,1,Lawn mower brush cutter and olive shaker,19,0.791,0.533,0.257
+MobileNetV3-Small,time_mask,1,Music,150,0.993,0.95,0.043
+MobileNetV3-Small,time_mask,1,Propeller aircrafts,16,0.8,0.4,0.4
+MobileNetV3-Small,time_mask,1,Sirens and alarms,16,0.867,0.897,-0.03
+MobileNetV3-Small,time_mask,1,Thunder fireworks and gunshot,36,1.0,0.787,0.213
+MobileNetV3-Small,time_mask,1,Train,10,0.909,0.545,0.364
+MobileNetV3-Small,time_mask,1,Vacuum cleaner fan and hairdryer,15,0.733,0.759,-0.025
+MobileNetV3-Small,time_mask,1,Vehicle idling,17,0.69,0.415,0.275
+MobileNetV3-Small,time_mask,1,Vehicle pass-by,33,0.839,0.465,0.374
+MobileNetV3-Small,time_mask,1,Voices,285,0.998,0.997,0.002
+MobileNetV3-Small,time_mask,1,Wind turbine,15,1.0,1.0,0.0
+MobileNetV3-Small,time_mask,1,Workshop,33,0.879,0.784,0.095
+MobileNetV3-Small,time_mask,2,Bells,10,1.0,0.947,0.053
+MobileNetV3-Small,time_mask,2,Birds,10,0.842,0.429,0.414
+MobileNetV3-Small,time_mask,2,Cat fights and moans,7,1.0,1.0,0.0
+MobileNetV3-Small,time_mask,2,Chicken coop,8,1.0,0.714,0.286
+MobileNetV3-Small,time_mask,2,Cicadas and crickets,11,0.87,0.588,0.281
+MobileNetV3-Small,time_mask,2,Crows seagulls and magpies,16,0.909,0.609,0.3
+MobileNetV3-Small,time_mask,2,Dog barkings and howlings,10,1.0,0.8,0.2
+MobileNetV3-Small,time_mask,2,Glass breaking,17,0.97,0.68,0.29
+MobileNetV3-Small,time_mask,2,Horn,8,0.8,0.889,-0.089
+MobileNetV3-Small,time_mask,2,Jet aircrafts,16,0.857,0.0,0.857
+MobileNetV3-Small,time_mask,2,Lawn mower brush cutter and olive shaker,19,0.791,0.0,0.791
+MobileNetV3-Small,time_mask,2,Music,150,0.993,0.915,0.078
+MobileNetV3-Small,time_mask,2,Propeller aircrafts,16,0.8,0.0,0.8
+MobileNetV3-Small,time_mask,2,Sirens and alarms,16,0.867,0.609,0.258
+MobileNetV3-Small,time_mask,2,Thunder fireworks and gunshot,36,1.0,0.504,0.496
+MobileNetV3-Small,time_mask,2,Train,10,0.909,0.0,0.909
+MobileNetV3-Small,time_mask,2,Vacuum cleaner fan and hairdryer,15,0.733,0.286,0.448
+MobileNetV3-Small,time_mask,2,Vehicle idling,17,0.69,0.4,0.29
+MobileNetV3-Small,time_mask,2,Vehicle pass-by,33,0.839,0.0,0.839
+MobileNetV3-Small,time_mask,2,Voices,285,0.998,0.993,0.005
+MobileNetV3-Small,time_mask,2,Wind turbine,15,1.0,0.0,1.0
+MobileNetV3-Small,time_mask,2,Workshop,33,0.879,0.43,0.449
+MobileNetV3-Small,time_mask,3,Bells,10,1.0,0.778,0.222
+MobileNetV3-Small,time_mask,3,Birds,10,0.842,0.308,0.534
+MobileNetV3-Small,time_mask,3,Cat fights and moans,7,1.0,0.923,0.077
+MobileNetV3-Small,time_mask,3,Chicken coop,8,1.0,0.737,0.263
+MobileNetV3-Small,time_mask,3,Cicadas and crickets,11,0.87,0.429,0.441
+MobileNetV3-Small,time_mask,3,Crows seagulls and magpies,16,0.909,0.118,0.791
+MobileNetV3-Small,time_mask,3,Dog barkings and howlings,10,1.0,0.7,0.3
+MobileNetV3-Small,time_mask,3,Glass breaking,17,0.97,0.395,0.575
+MobileNetV3-Small,time_mask,3,Horn,8,0.8,0.667,0.133
+MobileNetV3-Small,time_mask,3,Jet aircrafts,16,0.857,0.0,0.857
+MobileNetV3-Small,time_mask,3,Lawn mower brush cutter and olive shaker,19,0.791,0.0,0.791
+MobileNetV3-Small,time_mask,3,Music,150,0.993,0.853,0.14
+MobileNetV3-Small,time_mask,3,Propeller aircrafts,16,0.8,0.0,0.8
+MobileNetV3-Small,time_mask,3,Sirens and alarms,16,0.867,0.476,0.39
+MobileNetV3-Small,time_mask,3,Thunder fireworks and gunshot,36,1.0,0.467,0.533
+MobileNetV3-Small,time_mask,3,Train,10,0.909,0.182,0.727
+MobileNetV3-Small,time_mask,3,Vacuum cleaner fan and hairdryer,15,0.733,0.118,0.616
+MobileNetV3-Small,time_mask,3,Vehicle idling,17,0.69,0.389,0.301
+MobileNetV3-Small,time_mask,3,Vehicle pass-by,33,0.839,0.0,0.839
+MobileNetV3-Small,time_mask,3,Voices,285,0.998,0.964,0.034
+MobileNetV3-Small,time_mask,3,Wind turbine,15,1.0,0.0,1.0
+MobileNetV3-Small,time_mask,3,Workshop,33,0.879,0.357,0.522
+MobileNetV3-Small,freq_mask,1,Bells,10,1.0,0.762,0.238
+MobileNetV3-Small,freq_mask,1,Birds,10,0.842,0.667,0.175
+MobileNetV3-Small,freq_mask,1,Cat fights and moans,7,1.0,0.923,0.077
+MobileNetV3-Small,freq_mask,1,Chicken coop,8,1.0,0.857,0.143
+MobileNetV3-Small,freq_mask,1,Cicadas and crickets,11,0.87,0.488,0.382
+MobileNetV3-Small,freq_mask,1,Crows seagulls and magpies,16,0.909,0.769,0.14
+MobileNetV3-Small,freq_mask,1,Dog barkings and howlings,10,1.0,0.762,0.238
+MobileNetV3-Small,freq_mask,1,Glass breaking,17,0.97,0.938,0.032
+MobileNetV3-Small,freq_mask,1,Horn,8,0.8,0.667,0.133
+MobileNetV3-Small,freq_mask,1,Jet aircrafts,16,0.857,0.524,0.333
+MobileNetV3-Small,freq_mask,1,Lawn mower brush cutter and olive shaker,19,0.791,0.552,0.239
+MobileNetV3-Small,freq_mask,1,Music,150,0.993,0.916,0.077
+MobileNetV3-Small,freq_mask,1,Propeller aircrafts,16,0.8,0.615,0.185
+MobileNetV3-Small,freq_mask,1,Sirens and alarms,16,0.867,0.583,0.283
+MobileNetV3-Small,freq_mask,1,Thunder fireworks and gunshot,36,1.0,0.877,0.123
+MobileNetV3-Small,freq_mask,1,Train,10,0.909,0.182,0.727
+MobileNetV3-Small,freq_mask,1,Vacuum cleaner fan and hairdryer,15,0.733,0.345,0.389
+MobileNetV3-Small,freq_mask,1,Vehicle idling,17,0.69,0.48,0.21
+MobileNetV3-Small,freq_mask,1,Vehicle pass-by,33,0.839,0.571,0.267
+MobileNetV3-Small,freq_mask,1,Voices,285,0.998,0.977,0.022
+MobileNetV3-Small,freq_mask,1,Wind turbine,15,1.0,1.0,0.0
+MobileNetV3-Small,freq_mask,1,Workshop,33,0.879,0.667,0.212
+MobileNetV3-Small,freq_mask,2,Bells,10,1.0,0.64,0.36
+MobileNetV3-Small,freq_mask,2,Birds,10,0.842,0.667,0.175
+MobileNetV3-Small,freq_mask,2,Cat fights and moans,7,1.0,0.727,0.273
+MobileNetV3-Small,freq_mask,2,Chicken coop,8,1.0,0.714,0.286
+MobileNetV3-Small,freq_mask,2,Cicadas and crickets,11,0.87,0.286,0.584
+MobileNetV3-Small,freq_mask,2,Crows seagulls and magpies,16,0.909,0.769,0.14
+MobileNetV3-Small,freq_mask,2,Dog barkings and howlings,10,1.0,0.842,0.158
+MobileNetV3-Small,freq_mask,2,Glass breaking,17,0.97,0.903,0.066
+MobileNetV3-Small,freq_mask,2,Horn,8,0.8,0.375,0.425
+MobileNetV3-Small,freq_mask,2,Jet aircrafts,16,0.857,0.475,0.383
+MobileNetV3-Small,freq_mask,2,Lawn mower brush cutter and olive shaker,19,0.791,0.0,0.791
+MobileNetV3-Small,freq_mask,2,Music,150,0.993,0.847,0.146
+MobileNetV3-Small,freq_mask,2,Propeller aircrafts,16,0.8,0.605,0.195
+MobileNetV3-Small,freq_mask,2,Sirens and alarms,16,0.867,0.718,0.149
+MobileNetV3-Small,freq_mask,2,Thunder fireworks and gunshot,36,1.0,0.818,0.182
+MobileNetV3-Small,freq_mask,2,Train,10,0.909,0.0,0.909
+MobileNetV3-Small,freq_mask,2,Vacuum cleaner fan and hairdryer,15,0.733,0.421,0.312
+MobileNetV3-Small,freq_mask,2,Vehicle idling,17,0.69,0.435,0.255
+MobileNetV3-Small,freq_mask,2,Vehicle pass-by,33,0.839,0.381,0.458
+MobileNetV3-Small,freq_mask,2,Voices,285,0.998,0.958,0.04
+MobileNetV3-Small,freq_mask,2,Wind turbine,15,1.0,0.909,0.091
+MobileNetV3-Small,freq_mask,2,Workshop,33,0.879,0.419,0.46
+MobileNetV3-Small,freq_mask,3,Bells,10,1.0,0.364,0.636
+MobileNetV3-Small,freq_mask,3,Birds,10,0.842,0.154,0.688
+MobileNetV3-Small,freq_mask,3,Cat fights and moans,7,1.0,0.6,0.4
+MobileNetV3-Small,freq_mask,3,Chicken coop,8,1.0,0.8,0.2
+MobileNetV3-Small,freq_mask,3,Cicadas and crickets,11,0.87,0.16,0.71
+MobileNetV3-Small,freq_mask,3,Crows seagulls and magpies,16,0.909,0.583,0.326
+MobileNetV3-Small,freq_mask,3,Dog barkings and howlings,10,1.0,0.421,0.579
+MobileNetV3-Small,freq_mask,3,Glass breaking,17,0.97,0.522,0.448
+MobileNetV3-Small,freq_mask,3,Horn,8,0.8,0.444,0.356
+MobileNetV3-Small,freq_mask,3,Jet aircrafts,16,0.857,0.321,0.536
+MobileNetV3-Small,freq_mask,3,Lawn mower brush cutter and olive shaker,19,0.791,0.0,0.791
+MobileNetV3-Small,freq_mask,3,Music,150,0.993,0.788,0.205
+MobileNetV3-Small,freq_mask,3,Propeller aircrafts,16,0.8,0.32,0.48
+MobileNetV3-Small,freq_mask,3,Sirens and alarms,16,0.867,0.486,0.38
+MobileNetV3-Small,freq_mask,3,Thunder fireworks and gunshot,36,1.0,0.831,0.169
+MobileNetV3-Small,freq_mask,3,Train,10,0.909,0.0,0.909
+MobileNetV3-Small,freq_mask,3,Vacuum cleaner fan and hairdryer,15,0.733,0.0,0.733
+MobileNetV3-Small,freq_mask,3,Vehicle idling,17,0.69,0.105,0.584
+MobileNetV3-Small,freq_mask,3,Vehicle pass-by,33,0.839,0.111,0.728
+MobileNetV3-Small,freq_mask,3,Voices,285,0.998,0.923,0.075
+MobileNetV3-Small,freq_mask,3,Wind turbine,15,1.0,0.596,0.404
+MobileNetV3-Small,freq_mask,3,Workshop,33,0.879,0.105,0.774
+CRNN,noise_pink,1,Bells,10,0.952,0.737,0.216
+CRNN,noise_pink,1,Birds,10,0.947,0.8,0.147
+CRNN,noise_pink,1,Cat fights and moans,7,0.833,0.706,0.127
+CRNN,noise_pink,1,Chicken coop,8,0.889,0.714,0.175
+CRNN,noise_pink,1,Cicadas and crickets,11,0.9,0.9,0.0
+CRNN,noise_pink,1,Crows seagulls and magpies,16,0.903,0.811,0.092
+CRNN,noise_pink,1,Dog barkings and howlings,10,0.842,0.588,0.254
+CRNN,noise_pink,1,Glass breaking,17,0.944,0.909,0.035
+CRNN,noise_pink,1,Horn,8,0.933,0.545,0.388
+CRNN,noise_pink,1,Jet aircrafts,16,0.839,0.316,0.523
+CRNN,noise_pink,1,Lawn mower brush cutter and olive shaker,19,0.78,0.607,0.173
+CRNN,noise_pink,1,Music,150,0.99,0.966,0.024
+CRNN,noise_pink,1,Propeller aircrafts,16,0.649,0.364,0.285
+CRNN,noise_pink,1,Sirens and alarms,16,0.941,0.875,0.066
+CRNN,noise_pink,1,Thunder fireworks and gunshot,36,0.986,0.812,0.174
+CRNN,noise_pink,1,Train,10,0.64,0.345,0.295
+CRNN,noise_pink,1,Vacuum cleaner fan and hairdryer,15,0.444,0.526,-0.082
+CRNN,noise_pink,1,Vehicle idling,17,0.5,0.237,0.263
+CRNN,noise_pink,1,Vehicle pass-by,33,0.667,0.615,0.051
+CRNN,noise_pink,1,Voices,285,1.0,0.941,0.059
+CRNN,noise_pink,1,Wind turbine,15,1.0,0.235,0.765
+CRNN,noise_pink,1,Workshop,33,0.818,0.772,0.046
+CRNN,noise_pink,2,Bells,10,0.952,0.824,0.129
+CRNN,noise_pink,2,Birds,10,0.947,0.783,0.165
+CRNN,noise_pink,2,Cat fights and moans,7,0.833,0.5,0.333
+CRNN,noise_pink,2,Chicken coop,8,0.889,0.222,0.667
+CRNN,noise_pink,2,Cicadas and crickets,11,0.9,0.818,0.082
+CRNN,noise_pink,2,Crows seagulls and magpies,16,0.903,0.811,0.092
+CRNN,noise_pink,2,Dog barkings and howlings,10,0.842,0.0,0.842
+CRNN,noise_pink,2,Glass breaking,17,0.944,0.938,0.007
+CRNN,noise_pink,2,Horn,8,0.933,0.545,0.388
+CRNN,noise_pink,2,Jet aircrafts,16,0.839,0.0,0.839
+CRNN,noise_pink,2,Lawn mower brush cutter and olive shaker,19,0.78,0.479,0.302
+CRNN,noise_pink,2,Music,150,0.99,0.855,0.135
+CRNN,noise_pink,2,Propeller aircrafts,16,0.649,0.118,0.531
+CRNN,noise_pink,2,Sirens and alarms,16,0.941,0.69,0.252
+CRNN,noise_pink,2,Thunder fireworks and gunshot,36,0.986,0.286,0.701
+CRNN,noise_pink,2,Train,10,0.64,0.165,0.475
+CRNN,noise_pink,2,Vacuum cleaner fan and hairdryer,15,0.444,0.392,0.052
+CRNN,noise_pink,2,Vehicle idling,17,0.5,0.177,0.323
+CRNN,noise_pink,2,Vehicle pass-by,33,0.667,0.205,0.462
+CRNN,noise_pink,2,Voices,285,1.0,0.705,0.295
+CRNN,noise_pink,2,Wind turbine,15,1.0,0.0,1.0
+CRNN,noise_pink,2,Workshop,33,0.818,0.692,0.126
+CRNN,noise_pink,3,Bells,10,0.952,0.333,0.619
+CRNN,noise_pink,3,Birds,10,0.947,0.462,0.486
+CRNN,noise_pink,3,Cat fights and moans,7,0.833,0.444,0.389
+CRNN,noise_pink,3,Chicken coop,8,0.889,0.0,0.889
+CRNN,noise_pink,3,Cicadas and crickets,11,0.9,0.706,0.194
+CRNN,noise_pink,3,Crows seagulls and magpies,16,0.903,0.182,0.721
+CRNN,noise_pink,3,Dog barkings and howlings,10,0.842,0.0,0.842
+CRNN,noise_pink,3,Glass breaking,17,0.944,0.417,0.528
+CRNN,noise_pink,3,Horn,8,0.933,0.0,0.933
+CRNN,noise_pink,3,Jet aircrafts,16,0.839,0.0,0.839
+CRNN,noise_pink,3,Lawn mower brush cutter and olive shaker,19,0.78,0.282,0.499
+CRNN,noise_pink,3,Music,150,0.99,0.471,0.519
+CRNN,noise_pink,3,Propeller aircrafts,16,0.649,0.118,0.531
+CRNN,noise_pink,3,Sirens and alarms,16,0.941,0.316,0.625
+CRNN,noise_pink,3,Thunder fireworks and gunshot,36,0.986,0.0,0.986
+CRNN,noise_pink,3,Train,10,0.64,0.069,0.571
+CRNN,noise_pink,3,Vacuum cleaner fan and hairdryer,15,0.444,0.096,0.348
+CRNN,noise_pink,3,Vehicle idling,17,0.5,0.122,0.378
+CRNN,noise_pink,3,Vehicle pass-by,33,0.667,0.0,0.667
+CRNN,noise_pink,3,Voices,285,1.0,0.014,0.986
+CRNN,noise_pink,3,Wind turbine,15,1.0,0.0,1.0
+CRNN,noise_pink,3,Workshop,33,0.818,0.465,0.353
+CRNN,noise_mix,1,Bells,10,0.952,0.909,0.043
+CRNN,noise_mix,1,Birds,10,0.947,0.727,0.22
+CRNN,noise_mix,1,Cat fights and moans,7,0.833,0.526,0.307
+CRNN,noise_mix,1,Chicken coop,8,0.889,0.667,0.222
+CRNN,noise_mix,1,Cicadas and crickets,11,0.9,0.778,0.122
+CRNN,noise_mix,1,Crows seagulls and magpies,16,0.903,0.824,0.08
+CRNN,noise_mix,1,Dog barkings and howlings,10,0.842,0.5,0.342
+CRNN,noise_mix,1,Glass breaking,17,0.944,0.769,0.175
+CRNN,noise_mix,1,Horn,8,0.933,0.533,0.4
+CRNN,noise_mix,1,Jet aircrafts,16,0.839,0.733,0.105
+CRNN,noise_mix,1,Lawn mower brush cutter and olive shaker,19,0.78,0.681,0.1
+CRNN,noise_mix,1,Music,150,0.99,0.883,0.107
+CRNN,noise_mix,1,Propeller aircrafts,16,0.649,0.545,0.103
+CRNN,noise_mix,1,Sirens and alarms,16,0.941,0.686,0.255
+CRNN,noise_mix,1,Thunder fireworks and gunshot,36,0.986,0.788,0.198
+CRNN,noise_mix,1,Train,10,0.64,0.5,0.14
+CRNN,noise_mix,1,Vacuum cleaner fan and hairdryer,15,0.444,0.5,-0.056
+CRNN,noise_mix,1,Vehicle idling,17,0.5,0.341,0.159
+CRNN,noise_mix,1,Vehicle pass-by,33,0.667,0.519,0.148
+CRNN,noise_mix,1,Voices,285,1.0,0.887,0.113
+CRNN,noise_mix,1,Wind turbine,15,1.0,0.5,0.5
+CRNN,noise_mix,1,Workshop,33,0.818,0.73,0.088
+CRNN,noise_mix,2,Bells,10,0.952,0.636,0.316
+CRNN,noise_mix,2,Birds,10,0.947,0.438,0.51
+CRNN,noise_mix,2,Cat fights and moans,7,0.833,0.323,0.511
+CRNN,noise_mix,2,Chicken coop,8,0.889,0.182,0.707
+CRNN,noise_mix,2,Cicadas and crickets,11,0.9,0.375,0.525
+CRNN,noise_mix,2,Crows seagulls and magpies,16,0.903,0.8,0.103
+CRNN,noise_mix,2,Dog barkings and howlings,10,0.842,0.0,0.842
+CRNN,noise_mix,2,Glass breaking,17,0.944,0.585,0.359
+CRNN,noise_mix,2,Horn,8,0.933,0.4,0.533
+CRNN,noise_mix,2,Jet aircrafts,16,0.839,0.375,0.464
+CRNN,noise_mix,2,Lawn mower brush cutter and olive shaker,19,0.78,0.582,0.199
+CRNN,noise_mix,2,Music,150,0.99,0.783,0.207
+CRNN,noise_mix,2,Propeller aircrafts,16,0.649,0.514,0.134
+CRNN,noise_mix,2,Sirens and alarms,16,0.941,0.649,0.293
+CRNN,noise_mix,2,Thunder fireworks and gunshot,36,0.986,0.431,0.556
+CRNN,noise_mix,2,Train,10,0.64,0.4,0.24
+CRNN,noise_mix,2,Vacuum cleaner fan and hairdryer,15,0.444,0.303,0.141
+CRNN,noise_mix,2,Vehicle idling,17,0.5,0.4,0.1
+CRNN,noise_mix,2,Vehicle pass-by,33,0.667,0.286,0.381
+CRNN,noise_mix,2,Voices,285,1.0,0.638,0.362
+CRNN,noise_mix,2,Wind turbine,15,1.0,0.125,0.875
+CRNN,noise_mix,2,Workshop,33,0.818,0.61,0.208
+CRNN,noise_mix,3,Bells,10,0.952,0.583,0.369
+CRNN,noise_mix,3,Birds,10,0.947,0.091,0.856
+CRNN,noise_mix,3,Cat fights and moans,7,0.833,0.194,0.64
+CRNN,noise_mix,3,Chicken coop,8,0.889,0.095,0.794
+CRNN,noise_mix,3,Cicadas and crickets,11,0.9,0.364,0.536
+CRNN,noise_mix,3,Crows seagulls and magpies,16,0.903,0.333,0.57
+CRNN,noise_mix,3,Dog barkings and howlings,10,0.842,0.0,0.842
+CRNN,noise_mix,3,Glass breaking,17,0.944,0.286,0.659
+CRNN,noise_mix,3,Horn,8,0.933,0.267,0.667
+CRNN,noise_mix,3,Jet aircrafts,16,0.839,0.065,0.774
+CRNN,noise_mix,3,Lawn mower brush cutter and olive shaker,19,0.78,0.339,0.442
+CRNN,noise_mix,3,Music,150,0.99,0.648,0.342
+CRNN,noise_mix,3,Propeller aircrafts,16,0.649,0.2,0.449
+CRNN,noise_mix,3,Sirens and alarms,16,0.941,0.311,0.63
+CRNN,noise_mix,3,Thunder fireworks and gunshot,36,0.986,0.204,0.782
+CRNN,noise_mix,3,Train,10,0.64,0.143,0.497
+CRNN,noise_mix,3,Vacuum cleaner fan and hairdryer,15,0.444,0.146,0.298
+CRNN,noise_mix,3,Vehicle idling,17,0.5,0.171,0.329
+CRNN,noise_mix,3,Vehicle pass-by,33,0.667,0.211,0.456
+CRNN,noise_mix,3,Voices,285,1.0,0.313,0.687
+CRNN,noise_mix,3,Wind turbine,15,1.0,0.0,1.0
+CRNN,noise_mix,3,Workshop,33,0.818,0.447,0.371
+CRNN,gain,1,Bells,10,0.952,0.952,0.0
+CRNN,gain,1,Birds,10,0.947,0.778,0.17
+CRNN,gain,1,Cat fights and moans,7,0.833,0.923,-0.09
+CRNN,gain,1,Chicken coop,8,0.889,0.842,0.047
+CRNN,gain,1,Cicadas and crickets,11,0.9,0.9,0.0
+CRNN,gain,1,Crows seagulls and magpies,16,0.903,0.903,0.0
+CRNN,gain,1,Dog barkings and howlings,10,0.842,0.778,0.064
+CRNN,gain,1,Glass breaking,17,0.944,0.914,0.03
+CRNN,gain,1,Horn,8,0.933,0.933,0.0
+CRNN,gain,1,Jet aircrafts,16,0.839,0.897,-0.058
+CRNN,gain,1,Lawn mower brush cutter and olive shaker,19,0.78,0.762,0.019
+CRNN,gain,1,Music,150,0.99,0.99,-0.0
+CRNN,gain,1,Propeller aircrafts,16,0.649,0.722,-0.074
+CRNN,gain,1,Sirens and alarms,16,0.941,0.97,-0.029
+CRNN,gain,1,Thunder fireworks and gunshot,36,0.986,0.946,0.04
+CRNN,gain,1,Train,10,0.64,0.643,-0.003
+CRNN,gain,1,Vacuum cleaner fan and hairdryer,15,0.444,0.429,0.016
+CRNN,gain,1,Vehicle idling,17,0.5,0.562,-0.062
+CRNN,gain,1,Vehicle pass-by,33,0.667,0.712,-0.045
+CRNN,gain,1,Voices,285,1.0,1.0,0.0
+CRNN,gain,1,Wind turbine,15,1.0,1.0,0.0
+CRNN,gain,1,Workshop,33,0.818,0.781,0.037
+CRNN,gain,2,Bells,10,0.952,0.9,0.052
+CRNN,gain,2,Birds,10,0.947,0.9,0.047
+CRNN,gain,2,Cat fights and moans,7,0.833,0.833,0.0
+CRNN,gain,2,Chicken coop,8,0.889,0.842,0.047
+CRNN,gain,2,Cicadas and crickets,11,0.9,0.9,0.0
+CRNN,gain,2,Crows seagulls and magpies,16,0.903,0.933,-0.03
+CRNN,gain,2,Dog barkings and howlings,10,0.842,0.762,0.08
+CRNN,gain,2,Glass breaking,17,0.944,0.971,-0.027
+CRNN,gain,2,Horn,8,0.933,1.0,-0.067
+CRNN,gain,2,Jet aircrafts,16,0.839,0.75,0.089
+CRNN,gain,2,Lawn mower brush cutter and olive shaker,19,0.78,0.821,-0.04
+CRNN,gain,2,Music,150,0.99,0.98,0.01
+CRNN,gain,2,Propeller aircrafts,16,0.649,0.706,-0.057
+CRNN,gain,2,Sirens and alarms,16,0.941,0.875,0.066
+CRNN,gain,2,Thunder fireworks and gunshot,36,0.986,0.986,0.0
+CRNN,gain,2,Train,10,0.64,0.609,0.031
+CRNN,gain,2,Vacuum cleaner fan and hairdryer,15,0.444,0.483,-0.038
+CRNN,gain,2,Vehicle idling,17,0.5,0.667,-0.167
+CRNN,gain,2,Vehicle pass-by,33,0.667,0.688,-0.021
+CRNN,gain,2,Voices,285,1.0,1.0,0.0
+CRNN,gain,2,Wind turbine,15,1.0,1.0,0.0
+CRNN,gain,2,Workshop,33,0.818,0.857,-0.039
+CRNN,gain,3,Bells,10,0.952,0.857,0.095
+CRNN,gain,3,Birds,10,0.947,0.842,0.105
+CRNN,gain,3,Cat fights and moans,7,0.833,0.833,0.0
+CRNN,gain,3,Chicken coop,8,0.889,0.889,0.0
+CRNN,gain,3,Cicadas and crickets,11,0.9,0.8,0.1
+CRNN,gain,3,Crows seagulls and magpies,16,0.903,0.933,-0.03
+CRNN,gain,3,Dog barkings and howlings,10,0.842,0.727,0.115
+CRNN,gain,3,Glass breaking,17,0.944,1.0,-0.056
+CRNN,gain,3,Horn,8,0.933,1.0,-0.067
+CRNN,gain,3,Jet aircrafts,16,0.839,0.667,0.172
+CRNN,gain,3,Lawn mower brush cutter and olive shaker,19,0.78,0.722,0.058
+CRNN,gain,3,Music,150,0.99,0.973,0.017
+CRNN,gain,3,Propeller aircrafts,16,0.649,0.667,-0.018
+CRNN,gain,3,Sirens and alarms,16,0.941,0.909,0.032
+CRNN,gain,3,Thunder fireworks and gunshot,36,0.986,0.973,0.013
+CRNN,gain,3,Train,10,0.64,0.571,0.069
+CRNN,gain,3,Vacuum cleaner fan and hairdryer,15,0.444,0.516,-0.072
+CRNN,gain,3,Vehicle idling,17,0.5,0.595,-0.095
+CRNN,gain,3,Vehicle pass-by,33,0.667,0.75,-0.083
+CRNN,gain,3,Voices,285,1.0,0.996,0.004
+CRNN,gain,3,Wind turbine,15,1.0,1.0,0.0
+CRNN,gain,3,Workshop,33,0.818,0.852,-0.034
+CRNN,shift,1,Bells,10,0.952,0.909,0.043
+CRNN,shift,1,Birds,10,0.947,0.947,0.0
+CRNN,shift,1,Cat fights and moans,7,0.833,0.923,-0.09
+CRNN,shift,1,Chicken coop,8,0.889,0.8,0.089
+CRNN,shift,1,Cicadas and crickets,11,0.9,0.842,0.058
+CRNN,shift,1,Crows seagulls and magpies,16,0.903,0.903,0.0
+CRNN,shift,1,Dog barkings and howlings,10,0.842,0.696,0.146
+CRNN,shift,1,Glass breaking,17,0.944,0.944,0.0
+CRNN,shift,1,Horn,8,0.933,0.857,0.076
+CRNN,shift,1,Jet aircrafts,16,0.839,0.875,-0.036
+CRNN,shift,1,Lawn mower brush cutter and olive shaker,19,0.78,0.78,0.0
+CRNN,shift,1,Music,150,0.99,0.987,0.003
+CRNN,shift,1,Propeller aircrafts,16,0.649,0.706,-0.057
+CRNN,shift,1,Sirens and alarms,16,0.941,0.741,0.2
+CRNN,shift,1,Thunder fireworks and gunshot,36,0.986,0.935,0.051
+CRNN,shift,1,Train,10,0.64,0.667,-0.027
+CRNN,shift,1,Vacuum cleaner fan and hairdryer,15,0.444,0.533,-0.089
+CRNN,shift,1,Vehicle idling,17,0.5,0.485,0.015
+CRNN,shift,1,Vehicle pass-by,33,0.667,0.618,0.048
+CRNN,shift,1,Voices,285,1.0,1.0,0.0
+CRNN,shift,1,Wind turbine,15,1.0,1.0,0.0
+CRNN,shift,1,Workshop,33,0.818,0.825,-0.007
+CRNN,shift,2,Bells,10,0.952,0.909,0.043
+CRNN,shift,2,Birds,10,0.947,0.947,0.0
+CRNN,shift,2,Cat fights and moans,7,0.833,0.923,-0.09
+CRNN,shift,2,Chicken coop,8,0.889,0.762,0.127
+CRNN,shift,2,Cicadas and crickets,11,0.9,0.842,0.058
+CRNN,shift,2,Crows seagulls and magpies,16,0.903,0.903,0.0
+CRNN,shift,2,Dog barkings and howlings,10,0.842,0.727,0.115
+CRNN,shift,2,Glass breaking,17,0.944,0.944,0.0
+CRNN,shift,2,Horn,8,0.933,0.857,0.076
+CRNN,shift,2,Jet aircrafts,16,0.839,0.839,0.0
+CRNN,shift,2,Lawn mower brush cutter and olive shaker,19,0.78,0.762,0.019
+CRNN,shift,2,Music,150,0.99,0.987,0.003
+CRNN,shift,2,Propeller aircrafts,16,0.649,0.727,-0.079
+CRNN,shift,2,Sirens and alarms,16,0.941,0.741,0.2
+CRNN,shift,2,Thunder fireworks and gunshot,36,0.986,0.947,0.039
+CRNN,shift,2,Train,10,0.64,0.692,-0.052
+CRNN,shift,2,Vacuum cleaner fan and hairdryer,15,0.444,0.533,-0.089
+CRNN,shift,2,Vehicle idling,17,0.5,0.485,0.015
+CRNN,shift,2,Vehicle pass-by,33,0.667,0.63,0.037
+CRNN,shift,2,Voices,285,1.0,0.998,0.002
+CRNN,shift,2,Wind turbine,15,1.0,1.0,0.0
+CRNN,shift,2,Workshop,33,0.818,0.818,0.0
+CRNN,shift,3,Bells,10,0.952,0.909,0.043
+CRNN,shift,3,Birds,10,0.947,0.947,0.0
+CRNN,shift,3,Cat fights and moans,7,0.833,0.923,-0.09
+CRNN,shift,3,Chicken coop,8,0.889,0.762,0.127
+CRNN,shift,3,Cicadas and crickets,11,0.9,0.842,0.058
+CRNN,shift,3,Crows seagulls and magpies,16,0.903,0.938,-0.034
+CRNN,shift,3,Dog barkings and howlings,10,0.842,0.762,0.08
+CRNN,shift,3,Glass breaking,17,0.944,0.944,0.0
+CRNN,shift,3,Horn,8,0.933,0.857,0.076
+CRNN,shift,3,Jet aircrafts,16,0.839,0.875,-0.036
+CRNN,shift,3,Lawn mower brush cutter and olive shaker,19,0.78,0.762,0.019
+CRNN,shift,3,Music,150,0.99,0.987,0.003
+CRNN,shift,3,Propeller aircrafts,16,0.649,0.686,-0.037
+CRNN,shift,3,Sirens and alarms,16,0.941,0.741,0.2
+CRNN,shift,3,Thunder fireworks and gunshot,36,0.986,0.96,0.026
+CRNN,shift,3,Train,10,0.64,0.692,-0.052
+CRNN,shift,3,Vacuum cleaner fan and hairdryer,15,0.444,0.533,-0.089
+CRNN,shift,3,Vehicle idling,17,0.5,0.516,-0.016
+CRNN,shift,3,Vehicle pass-by,33,0.667,0.655,0.012
+CRNN,shift,3,Voices,285,1.0,1.0,0.0
+CRNN,shift,3,Wind turbine,15,1.0,1.0,0.0
+CRNN,shift,3,Workshop,33,0.818,0.788,0.03
+CRNN,time_mask,1,Bells,10,0.952,0.842,0.11
+CRNN,time_mask,1,Birds,10,0.947,0.824,0.124
+CRNN,time_mask,1,Cat fights and moans,7,0.833,0.75,0.083
+CRNN,time_mask,1,Chicken coop,8,0.889,0.615,0.274
+CRNN,time_mask,1,Cicadas and crickets,11,0.9,0.9,0.0
+CRNN,time_mask,1,Crows seagulls and magpies,16,0.903,0.897,0.007
+CRNN,time_mask,1,Dog barkings and howlings,10,0.842,0.857,-0.015
+CRNN,time_mask,1,Glass breaking,17,0.944,0.708,0.236
+CRNN,time_mask,1,Horn,8,0.933,0.933,0.0
+CRNN,time_mask,1,Jet aircrafts,16,0.839,0.0,0.839
+CRNN,time_mask,1,Lawn mower brush cutter and olive shaker,19,0.78,0.348,0.433
+CRNN,time_mask,1,Music,150,0.99,0.889,0.101
+CRNN,time_mask,1,Propeller aircrafts,16,0.649,0.316,0.333
+CRNN,time_mask,1,Sirens and alarms,16,0.941,0.4,0.541
+CRNN,time_mask,1,Thunder fireworks and gunshot,36,0.986,0.595,0.391
+CRNN,time_mask,1,Train,10,0.64,0.125,0.515
+CRNN,time_mask,1,Vacuum cleaner fan and hairdryer,15,0.444,0.316,0.129
+CRNN,time_mask,1,Vehicle idling,17,0.5,0.483,0.017
+CRNN,time_mask,1,Vehicle pass-by,33,0.667,0.627,0.039
+CRNN,time_mask,1,Voices,285,1.0,0.995,0.005
+CRNN,time_mask,1,Wind turbine,15,1.0,0.889,0.111
+CRNN,time_mask,1,Workshop,33,0.818,0.586,0.232
+CRNN,time_mask,2,Bells,10,0.952,0.889,0.063
+CRNN,time_mask,2,Birds,10,0.947,0.737,0.211
+CRNN,time_mask,2,Cat fights and moans,7,0.833,0.8,0.033
+CRNN,time_mask,2,Chicken coop,8,0.889,0.519,0.37
+CRNN,time_mask,2,Cicadas and crickets,11,0.9,0.429,0.471
+CRNN,time_mask,2,Crows seagulls and magpies,16,0.903,0.72,0.183
+CRNN,time_mask,2,Dog barkings and howlings,10,0.842,0.667,0.175
+CRNN,time_mask,2,Glass breaking,17,0.944,0.523,0.421
+CRNN,time_mask,2,Horn,8,0.933,0.875,0.058
+CRNN,time_mask,2,Jet aircrafts,16,0.839,0.0,0.839
+CRNN,time_mask,2,Lawn mower brush cutter and olive shaker,19,0.78,0.1,0.68
+CRNN,time_mask,2,Music,150,0.99,0.921,0.069
+CRNN,time_mask,2,Propeller aircrafts,16,0.649,0.0,0.649
+CRNN,time_mask,2,Sirens and alarms,16,0.941,0.0,0.941
+CRNN,time_mask,2,Thunder fireworks and gunshot,36,0.986,0.411,0.575
+CRNN,time_mask,2,Train,10,0.64,0.0,0.64
+CRNN,time_mask,2,Vacuum cleaner fan and hairdryer,15,0.444,0.222,0.222
+CRNN,time_mask,2,Vehicle idling,17,0.5,0.111,0.389
+CRNN,time_mask,2,Vehicle pass-by,33,0.667,0.364,0.303
+CRNN,time_mask,2,Voices,285,1.0,0.979,0.021
+CRNN,time_mask,2,Wind turbine,15,1.0,0.0,1.0
+CRNN,time_mask,2,Workshop,33,0.818,0.522,0.296
+CRNN,time_mask,3,Bells,10,0.952,0.462,0.491
+CRNN,time_mask,3,Birds,10,0.947,0.667,0.281
+CRNN,time_mask,3,Cat fights and moans,7,0.833,0.923,-0.09
+CRNN,time_mask,3,Chicken coop,8,0.889,0.444,0.444
+CRNN,time_mask,3,Cicadas and crickets,11,0.9,0.167,0.733
+CRNN,time_mask,3,Crows seagulls and magpies,16,0.903,0.667,0.237
+CRNN,time_mask,3,Dog barkings and howlings,10,0.842,0.625,0.217
+CRNN,time_mask,3,Glass breaking,17,0.944,0.448,0.497
+CRNN,time_mask,3,Horn,8,0.933,0.615,0.318
+CRNN,time_mask,3,Jet aircrafts,16,0.839,0.0,0.839
+CRNN,time_mask,3,Lawn mower brush cutter and olive shaker,19,0.78,0.0,0.78
+CRNN,time_mask,3,Music,150,0.99,0.814,0.176
+CRNN,time_mask,3,Propeller aircrafts,16,0.649,0.0,0.649
+CRNN,time_mask,3,Sirens and alarms,16,0.941,0.0,0.941
+CRNN,time_mask,3,Thunder fireworks and gunshot,36,0.986,0.346,0.64
+CRNN,time_mask,3,Train,10,0.64,0.0,0.64
+CRNN,time_mask,3,Vacuum cleaner fan and hairdryer,15,0.444,0.0,0.444
+CRNN,time_mask,3,Vehicle idling,17,0.5,0.0,0.5
+CRNN,time_mask,3,Vehicle pass-by,33,0.667,0.0,0.667
+CRNN,time_mask,3,Voices,285,1.0,0.881,0.119
+CRNN,time_mask,3,Wind turbine,15,1.0,0.0,1.0
+CRNN,time_mask,3,Workshop,33,0.818,0.167,0.652
+CRNN,freq_mask,1,Bells,10,0.952,0.392,0.56
+CRNN,freq_mask,1,Birds,10,0.947,0.667,0.281
+CRNN,freq_mask,1,Cat fights and moans,7,0.833,0.833,0.0
+CRNN,freq_mask,1,Chicken coop,8,0.889,0.421,0.468
+CRNN,freq_mask,1,Cicadas and crickets,11,0.9,0.5,0.4
+CRNN,freq_mask,1,Crows seagulls and magpies,16,0.903,0.545,0.358
+CRNN,freq_mask,1,Dog barkings and howlings,10,0.842,0.588,0.254
+CRNN,freq_mask,1,Glass breaking,17,0.944,0.941,0.003
+CRNN,freq_mask,1,Horn,8,0.933,0.588,0.345
+CRNN,freq_mask,1,Jet aircrafts,16,0.839,0.391,0.447
+CRNN,freq_mask,1,Lawn mower brush cutter and olive shaker,19,0.78,0.231,0.55
+CRNN,freq_mask,1,Music,150,0.99,0.875,0.115
+CRNN,freq_mask,1,Propeller aircrafts,16,0.649,0.333,0.315
+CRNN,freq_mask,1,Sirens and alarms,16,0.941,0.314,0.627
+CRNN,freq_mask,1,Thunder fireworks and gunshot,36,0.986,0.719,0.268
+CRNN,freq_mask,1,Train,10,0.64,0.0,0.64
+CRNN,freq_mask,1,Vacuum cleaner fan and hairdryer,15,0.444,0.214,0.23
+CRNN,freq_mask,1,Vehicle idling,17,0.5,0.154,0.346
+CRNN,freq_mask,1,Vehicle pass-by,33,0.667,0.108,0.559
+CRNN,freq_mask,1,Voices,285,1.0,0.977,0.023
+CRNN,freq_mask,1,Wind turbine,15,1.0,0.966,0.034
+CRNN,freq_mask,1,Workshop,33,0.818,0.222,0.596
+CRNN,freq_mask,2,Bells,10,0.952,0.3,0.652
+CRNN,freq_mask,2,Birds,10,0.947,0.286,0.662
+CRNN,freq_mask,2,Cat fights and moans,7,0.833,0.4,0.433
+CRNN,freq_mask,2,Chicken coop,8,0.889,0.533,0.356
+CRNN,freq_mask,2,Cicadas and crickets,11,0.9,0.291,0.609
+CRNN,freq_mask,2,Crows seagulls and magpies,16,0.903,0.4,0.503
+CRNN,freq_mask,2,Dog barkings and howlings,10,0.842,0.571,0.271
+CRNN,freq_mask,2,Glass breaking,17,0.944,0.727,0.217
+CRNN,freq_mask,2,Horn,8,0.933,0.444,0.489
+CRNN,freq_mask,2,Jet aircrafts,16,0.839,0.361,0.478
+CRNN,freq_mask,2,Lawn mower brush cutter and olive shaker,19,0.78,0.0,0.78
+CRNN,freq_mask,2,Music,150,0.99,0.798,0.191
+CRNN,freq_mask,2,Propeller aircrafts,16,0.649,0.348,0.301
+CRNN,freq_mask,2,Sirens and alarms,16,0.941,0.239,0.703
+CRNN,freq_mask,2,Thunder fireworks and gunshot,36,0.986,0.676,0.31
+CRNN,freq_mask,2,Train,10,0.64,0.0,0.64
+CRNN,freq_mask,2,Vacuum cleaner fan and hairdryer,15,0.444,0.0,0.444
+CRNN,freq_mask,2,Vehicle idling,17,0.5,0.167,0.333
+CRNN,freq_mask,2,Vehicle pass-by,33,0.667,0.154,0.513
+CRNN,freq_mask,2,Voices,285,1.0,0.933,0.067
+CRNN,freq_mask,2,Wind turbine,15,1.0,0.966,0.034
+CRNN,freq_mask,2,Workshop,33,0.818,0.14,0.679
+CRNN,freq_mask,3,Bells,10,0.952,0.267,0.686
+CRNN,freq_mask,3,Birds,10,0.947,0.154,0.794
+CRNN,freq_mask,3,Cat fights and moans,7,0.833,0.5,0.333
+CRNN,freq_mask,3,Chicken coop,8,0.889,0.2,0.689
+CRNN,freq_mask,3,Cicadas and crickets,11,0.9,0.044,0.856
+CRNN,freq_mask,3,Crows seagulls and magpies,16,0.903,0.0,0.903
+CRNN,freq_mask,3,Dog barkings and howlings,10,0.842,0.117,0.726
+CRNN,freq_mask,3,Glass breaking,17,0.944,0.2,0.744
+CRNN,freq_mask,3,Horn,8,0.933,0.0,0.933
+CRNN,freq_mask,3,Jet aircrafts,16,0.839,0.17,0.668
+CRNN,freq_mask,3,Lawn mower brush cutter and olive shaker,19,0.78,0.0,0.78
+CRNN,freq_mask,3,Music,150,0.99,0.605,0.385
+CRNN,freq_mask,3,Propeller aircrafts,16,0.649,0.214,0.434
+CRNN,freq_mask,3,Sirens and alarms,16,0.941,0.15,0.791
+CRNN,freq_mask,3,Thunder fireworks and gunshot,36,0.986,0.565,0.421
+CRNN,freq_mask,3,Train,10,0.64,0.0,0.64
+CRNN,freq_mask,3,Vacuum cleaner fan and hairdryer,15,0.444,0.0,0.444
+CRNN,freq_mask,3,Vehicle idling,17,0.5,0.348,0.152
+CRNN,freq_mask,3,Vehicle pass-by,33,0.667,0.114,0.552
+CRNN,freq_mask,3,Voices,285,1.0,0.677,0.323
+CRNN,freq_mask,3,Wind turbine,15,1.0,0.933,0.067
+CRNN,freq_mask,3,Workshop,33,0.818,0.0,0.818

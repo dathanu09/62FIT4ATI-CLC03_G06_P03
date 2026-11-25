@@ -1,0 +1,23 @@
+macro_class,count,min,max,mean,median,pct_shorter_than_4s
+Bells,67,2.71,73.08,28.59,29.64,10.45
+Birds,69,1.97,79.97,13.16,5.0,10.14
+Cat fights and moans,50,2.39,66.97,23.41,19.97,4.0
+Chicken coop,58,0.98,55.14,11.95,11.3,32.76
+Cicadas and crickets,74,4.22,77.37,22.86,18.2,0.0
+Crows seagulls and magpies,106,1.55,198.37,25.52,22.75,5.66
+Dog barkings and howlings,70,0.35,37.74,9.61,7.56,32.86
+Glass breaking,109,0.24,60.53,36.64,60.52,22.94
+Horn,57,0.29,45.2,4.94,1.88,75.44
+Jet aircrafts,103,7.15,87.28,27.83,24.91,0.0
+Lawn mower brush cutter and olive shaker,127,7.23,248.87,43.01,38.4,0.0
+Music,1001,10.0,30.65,29.98,30.0,0.0
+Propeller aircrafts,108,5.04,228.14,33.8,22.04,0.0
+Sirens and alarms,105,1.91,99.07,18.15,10.38,5.71
+Thunder fireworks and gunshot,235,0.43,174.61,9.74,2.0,61.7
+Train,67,3.89,230.14,35.17,19.38,1.49
+Vacuum cleaner fan and hairdryer,95,2.66,301.0,38.54,23.46,1.05
+Vehicle idling,112,2.35,481.48,36.81,23.55,1.79
+Vehicle pass-by,217,1.11,303.14,10.78,5.27,24.88
+Voices,1900,0.2,29.94,3.19,2.24,72.16
+Wind turbine,100,10.0,59.34,11.46,10.0,0.0
+Workshop,218,0.6,233.44,25.02,19.95,9.63

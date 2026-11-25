@@ -1,0 +1,4 @@
+model,params_M,GMACs,latency_ms,train_time_s,epochs_run,best_epoch,val_acc,val_macroF1,test_acc,test_macroF1
+Small CNN,0.096,0.2093,1.2306,415.5396,30,28,0.8613,0.7158,0.8615,0.714
+MobileNetV3-Small,1.5404,0.0262,6.5889,359.627,26,20,0.9551,0.9133,0.9485,0.8975
+CRNN,1.703,0.1797,1.398,376.3251,30,28,0.9194,0.8332,0.9195,0.8363

@@ -1,0 +1,55 @@
+model,perturbation,severity,level,correct_on_clean,flipped,flip_rate
+Small CNN,noise_pink,1,20 dB SNR,653,313,0.4793
+Small CNN,noise_pink,2,10 dB SNR,653,478,0.732
+Small CNN,noise_pink,3,0 dB SNR,653,625,0.9571
+Small CNN,noise_mix,1,20 dB SNR,653,194,0.2971
+Small CNN,noise_mix,2,10 dB SNR,653,305,0.4671
+Small CNN,noise_mix,3,0 dB SNR,653,429,0.657
+Small CNN,gain,1,6 dB,653,21,0.0322
+Small CNN,gain,2,-6 dB,653,15,0.023
+Small CNN,gain,3,-12 dB,653,36,0.0551
+Small CNN,shift,1,0.5 s,653,7,0.0107
+Small CNN,shift,2,1.0 s,653,6,0.0092
+Small CNN,shift,3,2.0 s,653,5,0.0077
+Small CNN,time_mask,1,0.1 fraction of window,653,132,0.2021
+Small CNN,time_mask,2,0.25 fraction of window,653,245,0.3752
+Small CNN,time_mask,3,0.5 fraction of window,653,331,0.5069
+Small CNN,freq_mask,1,0.1 fraction of 0-11 kHz,653,74,0.1133
+Small CNN,freq_mask,2,0.25 fraction of 0-11 kHz,653,241,0.3691
+Small CNN,freq_mask,3,0.5 fraction of 0-11 kHz,653,316,0.4839
+MobileNetV3-Small,noise_pink,1,20 dB SNR,719,52,0.0723
+MobileNetV3-Small,noise_pink,2,10 dB SNR,719,147,0.2045
+MobileNetV3-Small,noise_pink,3,0 dB SNR,719,516,0.7177
+MobileNetV3-Small,noise_mix,1,20 dB SNR,719,106,0.1474
+MobileNetV3-Small,noise_mix,2,10 dB SNR,719,261,0.363
+MobileNetV3-Small,noise_mix,3,0 dB SNR,719,467,0.6495
+MobileNetV3-Small,gain,1,6 dB,719,5,0.007
+MobileNetV3-Small,gain,2,-6 dB,719,7,0.0097
+MobileNetV3-Small,gain,3,-12 dB,719,21,0.0292
+MobileNetV3-Small,shift,1,0.5 s,719,8,0.0111
+MobileNetV3-Small,shift,2,1.0 s,719,8,0.0111
+MobileNetV3-Small,shift,3,2.0 s,719,12,0.0167
+MobileNetV3-Small,time_mask,1,0.1 fraction of window,719,63,0.0876
+MobileNetV3-Small,time_mask,2,0.25 fraction of window,719,161,0.2239
+MobileNetV3-Small,time_mask,3,0.5 fraction of window,719,212,0.2949
+MobileNetV3-Small,freq_mask,1,0.1 fraction of 0-11 kHz,719,93,0.1293
+MobileNetV3-Small,freq_mask,2,0.25 fraction of 0-11 kHz,719,144,0.2003
+MobileNetV3-Small,freq_mask,3,0.5 fraction of 0-11 kHz,719,228,0.3171
+CRNN,noise_pink,1,20 dB SNR,697,107,0.1535
+CRNN,noise_pink,2,10 dB SNR,697,279,0.4003
+CRNN,noise_pink,3,0 dB SNR,697,580,0.8321
+CRNN,noise_mix,1,20 dB SNR,697,110,0.1578
+CRNN,noise_mix,2,10 dB SNR,697,259,0.3716
+CRNN,noise_mix,3,0 dB SNR,697,418,0.5997
+CRNN,gain,1,6 dB,697,9,0.0129
+CRNN,gain,2,-6 dB,697,11,0.0158
+CRNN,gain,3,-12 dB,697,21,0.0301
+CRNN,shift,1,0.5 s,697,14,0.0201
+CRNN,shift,2,1.0 s,697,14,0.0201
+CRNN,shift,3,2.0 s,697,13,0.0187
+CRNN,time_mask,1,0.1 fraction of window,697,84,0.1205
+CRNN,time_mask,2,0.25 fraction of window,697,141,0.2023
+CRNN,time_mask,3,0.5 fraction of window,697,221,0.3171
+CRNN,freq_mask,1,0.1 fraction of 0-11 kHz,697,155,0.2224
+CRNN,freq_mask,2,0.25 fraction of 0-11 kHz,697,220,0.3156
+CRNN,freq_mask,3,0.5 fraction of 0-11 kHz,697,401,0.5753

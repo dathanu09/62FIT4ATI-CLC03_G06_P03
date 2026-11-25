@@ -1,0 +1,91 @@
+model,perturbation,true_class,predicted_as,count_clean,count_corrupted,n_true,share_increase
+Small CNN,noise_pink,Voices,Train,0,278,285,278.0
+Small CNN,noise_pink,Music,Train,0,63,150,63.0
+Small CNN,noise_pink,Music,Vacuum cleaner fan and hairdryer,0,48,150,48.0
+Small CNN,noise_pink,Thunder fireworks and gunshot,Train,0,33,36,33.0
+Small CNN,noise_pink,Music,Lawn mower brush cutter and olive shaker,2,21,150,19.0
+Small CNN,noise_mix,Voices,Music,0,80,285,80.0
+Small CNN,noise_mix,Voices,Crows seagulls and magpies,0,33,285,33.0
+Small CNN,noise_mix,Voices,Train,0,16,285,16.0
+Small CNN,noise_mix,Voices,Lawn mower brush cutter and olive shaker,0,12,285,12.0
+Small CNN,noise_mix,Voices,Vehicle pass-by,0,11,285,11.0
+Small CNN,gain,Workshop,Vehicle idling,0,5,33,5.0
+Small CNN,gain,Birds,Thunder fireworks and gunshot,0,3,10,3.0
+Small CNN,gain,Lawn mower brush cutter and olive shaker,Vehicle idling,0,3,19,3.0
+Small CNN,gain,Vehicle pass-by,Propeller aircrafts,3,6,33,3.0
+Small CNN,gain,Vehicle idling,Jet aircrafts,1,3,17,2.0
+Small CNN,shift,Vehicle pass-by,Thunder fireworks and gunshot,1,3,33,2.0
+Small CNN,shift,Chicken coop,Crows seagulls and magpies,0,2,8,2.0
+Small CNN,shift,Vehicle pass-by,Workshop,1,2,33,1.0
+Small CNN,shift,Cat fights and moans,Dog barkings and howlings,0,1,7,1.0
+Small CNN,shift,Vehicle idling,Train,0,1,17,1.0
+Small CNN,time_mask,Music,Voices,0,61,150,61.0
+Small CNN,time_mask,Music,Thunder fireworks and gunshot,0,38,150,38.0
+Small CNN,time_mask,Music,Horn,1,37,150,36.0
+Small CNN,time_mask,Vehicle pass-by,Thunder fireworks and gunshot,1,26,33,25.0
+Small CNN,time_mask,Workshop,Thunder fireworks and gunshot,0,22,33,22.0
+Small CNN,freq_mask,Music,Sirens and alarms,0,112,150,112.0
+Small CNN,freq_mask,Workshop,Sirens and alarms,0,31,33,31.0
+Small CNN,freq_mask,Voices,Chicken coop,0,29,285,29.0
+Small CNN,freq_mask,Vehicle pass-by,Sirens and alarms,1,28,33,27.0
+Small CNN,freq_mask,Voices,Sirens and alarms,0,22,285,22.0
+MobileNetV3-Small,noise_pink,Voices,Train,0,169,285,169.0
+MobileNetV3-Small,noise_pink,Music,Train,1,60,150,59.0
+MobileNetV3-Small,noise_pink,Voices,Music,0,50,285,50.0
+MobileNetV3-Small,noise_pink,Thunder fireworks and gunshot,Train,0,30,36,30.0
+MobileNetV3-Small,noise_pink,Vehicle pass-by,Train,0,20,33,20.0
+MobileNetV3-Small,noise_mix,Voices,Music,0,45,285,45.0
+MobileNetV3-Small,noise_mix,Voices,Cat fights and moans,0,17,285,17.0
+MobileNetV3-Small,noise_mix,Voices,Jet aircrafts,0,17,285,17.0
+MobileNetV3-Small,noise_mix,Voices,Glass breaking,0,15,285,15.0
+MobileNetV3-Small,noise_mix,Voices,Vehicle pass-by,0,13,285,13.0
+MobileNetV3-Small,gain,Train,Jet aircrafts,0,3,10,3.0
+MobileNetV3-Small,gain,Vehicle pass-by,Jet aircrafts,1,3,33,2.0
+MobileNetV3-Small,gain,Train,Vehicle idling,0,2,10,2.0
+MobileNetV3-Small,gain,Chicken coop,Dog barkings and howlings,0,2,8,2.0
+MobileNetV3-Small,gain,Workshop,Lawn mower brush cutter and olive shaker,0,2,33,2.0
+MobileNetV3-Small,shift,Vehicle pass-by,Train,0,2,33,2.0
+MobileNetV3-Small,shift,Vehicle pass-by,Vehicle idling,1,3,33,2.0
+MobileNetV3-Small,shift,Vacuum cleaner fan and hairdryer,Workshop,1,2,15,1.0
+MobileNetV3-Small,shift,Train,Vehicle idling,0,1,10,1.0
+MobileNetV3-Small,shift,Train,Vehicle pass-by,0,1,10,1.0
+MobileNetV3-Small,time_mask,Vehicle pass-by,Workshop,0,17,33,17.0
+MobileNetV3-Small,time_mask,Music,Glass breaking,0,17,150,17.0
+MobileNetV3-Small,time_mask,Lawn mower brush cutter and olive shaker,Workshop,1,17,19,16.0
+MobileNetV3-Small,time_mask,Voices,Glass breaking,0,15,285,15.0
+MobileNetV3-Small,time_mask,Wind turbine,Thunder fireworks and gunshot,0,15,15,15.0
+MobileNetV3-Small,freq_mask,Voices,Music,0,27,285,27.0
+MobileNetV3-Small,freq_mask,Workshop,Cicadas and crickets,0,23,33,23.0
+MobileNetV3-Small,freq_mask,Music,Cicadas and crickets,0,10,150,10.0
+MobileNetV3-Small,freq_mask,Vehicle pass-by,Music,0,10,33,10.0
+MobileNetV3-Small,freq_mask,Lawn mower brush cutter and olive shaker,Cicadas and crickets,0,8,19,8.0
+CRNN,noise_pink,Voices,Train,0,134,285,134.0
+CRNN,noise_pink,Voices,Vehicle idling,0,60,285,60.0
+CRNN,noise_pink,Music,Vehicle idling,0,58,150,58.0
+CRNN,noise_pink,Voices,Vacuum cleaner fan and hairdryer,0,40,285,40.0
+CRNN,noise_pink,Voices,Music,0,29,285,29.0
+CRNN,noise_mix,Voices,Music,0,101,285,101.0
+CRNN,noise_mix,Voices,Glass breaking,0,15,285,15.0
+CRNN,noise_mix,Voices,Train,0,14,285,14.0
+CRNN,noise_mix,Voices,Cat fights and moans,0,12,285,12.0
+CRNN,noise_mix,Voices,Lawn mower brush cutter and olive shaker,0,11,285,11.0
+CRNN,gain,Train,Jet aircrafts,0,2,10,2.0
+CRNN,gain,Music,Vacuum cleaner fan and hairdryer,0,2,150,2.0
+CRNN,gain,Vacuum cleaner fan and hairdryer,Propeller aircrafts,1,3,15,2.0
+CRNN,gain,Lawn mower brush cutter and olive shaker,Vehicle idling,1,3,19,2.0
+CRNN,gain,Cicadas and crickets,Dog barkings and howlings,0,2,11,2.0
+CRNN,shift,Sirens and alarms,Chicken coop,0,4,16,4.0
+CRNN,shift,Vehicle pass-by,Workshop,0,2,33,2.0
+CRNN,shift,Vehicle pass-by,Lawn mower brush cutter and olive shaker,2,3,33,1.0
+CRNN,shift,Vehicle idling,Thunder fireworks and gunshot,0,1,17,1.0
+CRNN,shift,Vehicle pass-by,Train,4,5,33,1.0
+CRNN,time_mask,Music,Voices,0,36,150,36.0
+CRNN,time_mask,Vehicle pass-by,Thunder fireworks and gunshot,1,26,33,25.0
+CRNN,time_mask,Workshop,Glass breaking,1,20,33,19.0
+CRNN,time_mask,Jet aircrafts,Thunder fireworks and gunshot,0,16,16,16.0
+CRNN,time_mask,Wind turbine,Thunder fireworks and gunshot,0,15,15,15.0
+CRNN,freq_mask,Voices,Dog barkings and howlings,0,71,285,71.0
+CRNN,freq_mask,Voices,Cicadas and crickets,0,33,285,33.0
+CRNN,freq_mask,Music,Cicadas and crickets,0,33,150,33.0
+CRNN,freq_mask,Music,Sirens and alarms,0,26,150,26.0
+CRNN,freq_mask,Voices,Thunder fireworks and gunshot,0,21,285,21.0

@@ -1,0 +1,58 @@
+model,perturbation,severity,level,accuracy,macro_f1_clean,macro_f1_corrupted,delta_f1,delta_f1_ci_low,delta_f1_ci_high
+Small CNN,clean,0,clean,0.8615,0.714,0.714,0.0,0.0,0.0
+Small CNN,noise_pink,1,20 dB SNR,0.4683,0.714,0.3593,0.3547,0.2971,0.4058
+Small CNN,noise_pink,2,10 dB SNR,0.248,0.714,0.234,0.48,0.4191,0.5249
+Small CNN,noise_pink,3,0 dB SNR,0.0528,0.714,0.0595,0.6544,0.5916,0.7005
+Small CNN,noise_mix,1,20 dB SNR,0.6174,0.714,0.4711,0.2429,0.1933,0.2846
+Small CNN,noise_mix,2,10 dB SNR,0.4749,0.714,0.3316,0.3824,0.3284,0.432
+Small CNN,noise_mix,3,0 dB SNR,0.314,0.714,0.1873,0.5267,0.4686,0.5762
+Small CNN,gain,1,6 dB,0.8522,0.714,0.6917,0.0223,-0.0131,0.0498
+Small CNN,gain,2,-6 dB,0.8602,0.714,0.7137,0.0003,-0.0334,0.0316
+Small CNN,gain,3,-12 dB,0.8391,0.714,0.6581,0.0559,0.0137,0.1001
+Small CNN,shift,1,0.5 s,0.8588,0.714,0.6995,0.0145,-0.0051,0.0388
+Small CNN,shift,2,1.0 s,0.8668,0.714,0.7164,-0.0024,-0.025,0.0194
+Small CNN,shift,3,2.0 s,0.8615,0.714,0.7052,0.0088,-0.0101,0.0283
+Small CNN,time_mask,1,0.1 fraction of window,0.7164,0.714,0.4663,0.2477,0.1909,0.3093
+Small CNN,time_mask,2,0.25 fraction of window,0.5541,0.714,0.199,0.515,0.4558,0.5599
+Small CNN,time_mask,3,0.5 fraction of window,0.4354,0.714,0.0877,0.6263,0.5699,0.6733
+Small CNN,freq_mask,1,0.1 fraction of 0-11 kHz,0.7836,0.714,0.5591,0.1549,0.1094,0.2029
+Small CNN,freq_mask,2,0.25 fraction of 0-11 kHz,0.5528,0.714,0.4035,0.3105,0.256,0.3558
+Small CNN,freq_mask,3,0.5 fraction of 0-11 kHz,0.4512,0.714,0.287,0.427,0.3782,0.475
+MobileNetV3-Small,clean,0,clean,0.9485,0.8975,0.8975,0.0,0.0,0.0
+MobileNetV3-Small,noise_pink,1,20 dB SNR,0.8879,0.8975,0.7704,0.1271,0.0892,0.1752
+MobileNetV3-Small,noise_pink,2,10 dB SNR,0.7625,0.8975,0.5924,0.3051,0.2625,0.36
+MobileNetV3-Small,noise_pink,3,0 dB SNR,0.2784,0.8975,0.3237,0.5739,0.5286,0.6268
+MobileNetV3-Small,noise_mix,1,20 dB SNR,0.8153,0.8975,0.6911,0.2065,0.1703,0.2545
+MobileNetV3-Small,noise_mix,2,10 dB SNR,0.6121,0.8975,0.469,0.4286,0.3771,0.4833
+MobileNetV3-Small,noise_mix,3,0 dB SNR,0.3364,0.8975,0.2119,0.6857,0.6455,0.7264
+MobileNetV3-Small,gain,1,6 dB,0.9485,0.8975,0.8982,-0.0006,-0.0174,0.0157
+MobileNetV3-Small,gain,2,-6 dB,0.9459,0.8975,0.8975,0.0001,-0.0205,0.0205
+MobileNetV3-Small,gain,3,-12 dB,0.9288,0.8975,0.852,0.0455,0.0143,0.0834
+MobileNetV3-Small,shift,1,0.5 s,0.9459,0.8975,0.8911,0.0064,-0.0138,0.0386
+MobileNetV3-Small,shift,2,1.0 s,0.9472,0.8975,0.8957,0.0019,-0.0212,0.0311
+MobileNetV3-Small,shift,3,2.0 s,0.942,0.8975,0.8825,0.015,-0.0066,0.0501
+MobileNetV3-Small,time_mask,1,0.1 fraction of window,0.8747,0.8975,0.7712,0.1263,0.0904,0.1674
+MobileNetV3-Small,time_mask,2,0.25 fraction of window,0.7454,0.8975,0.4905,0.407,0.3641,0.4591
+MobileNetV3-Small,time_mask,3,0.5 fraction of window,0.6768,0.8975,0.4027,0.4949,0.4496,0.5477
+MobileNetV3-Small,freq_mask,1,0.1 fraction of 0-11 kHz,0.8338,0.8975,0.6873,0.2102,0.1649,0.2556
+MobileNetV3-Small,freq_mask,2,0.25 fraction of 0-11 kHz,0.7678,0.8975,0.5867,0.3108,0.2624,0.3612
+MobileNetV3-Small,freq_mask,3,0.5 fraction of 0-11 kHz,0.6544,0.8975,0.3925,0.505,0.45,0.5689
+CRNN,clean,0,clean,0.9195,0.8363,0.8363,0.0,0.0,0.0
+CRNN,noise_pink,1,20 dB SNR,0.7955,0.8363,0.651,0.1854,0.1351,0.2396
+CRNN,noise_pink,2,10 dB SNR,0.5699,0.8363,0.4638,0.3725,0.3282,0.4202
+CRNN,noise_pink,3,0 dB SNR,0.1728,0.8363,0.2044,0.632,0.5801,0.6865
+CRNN,noise_mix,1,20 dB SNR,0.7797,0.8363,0.6603,0.1761,0.1359,0.2166
+CRNN,noise_mix,2,10 dB SNR,0.5897,0.8363,0.447,0.3893,0.3425,0.4375
+CRNN,noise_mix,3,0 dB SNR,0.3734,0.8363,0.2459,0.5904,0.5383,0.6361
+CRNN,gain,1,6 dB,0.9182,0.8363,0.8335,0.0028,-0.0234,0.0266
+CRNN,gain,2,-6 dB,0.9208,0.8363,0.8392,-0.0029,-0.0308,0.024
+CRNN,gain,3,-12 dB,0.9116,0.8363,0.8215,0.0148,-0.0146,0.0485
+CRNN,shift,1,0.5 s,0.9103,0.8363,0.817,0.0193,-0.0082,0.0479
+CRNN,shift,2,1.0 s,0.9103,0.8363,0.817,0.0193,-0.0072,0.0479
+CRNN,shift,3,2.0 s,0.9129,0.8363,0.8218,0.0146,-0.0141,0.0451
+CRNN,time_mask,1,0.1 fraction of window,0.8179,0.8363,0.6316,0.2048,0.1563,0.2468
+CRNN,time_mask,2,0.25 fraction of window,0.7414,0.8363,0.4449,0.3915,0.3382,0.4284
+CRNN,time_mask,3,0.5 fraction of window,0.6346,0.8363,0.3284,0.5079,0.4531,0.5494
+CRNN,freq_mask,1,0.1 fraction of 0-11 kHz,0.7243,0.8363,0.4991,0.3372,0.2817,0.39
+CRNN,freq_mask,2,0.25 fraction of 0-11 kHz,0.6372,0.8363,0.397,0.4393,0.3943,0.4842
+CRNN,freq_mask,3,0.5 fraction of 0-11 kHz,0.3931,0.8363,0.2391,0.5973,0.54,0.6416

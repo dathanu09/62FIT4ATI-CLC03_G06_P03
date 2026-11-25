@@ -1,0 +1,134 @@
+{
+  "seed": 42,
+  "dataset_doi": "10.5281/zenodo.17033970",
+  "perturbations": {
+    "noise_pink": {
+      "label": "Additive pink noise",
+      "unit": "dB SNR",
+      "levels": [
+        20,
+        10,
+        0
+      ]
+    },
+    "noise_mix": {
+      "label": "Background mixing",
+      "unit": "dB SNR",
+      "levels": [
+        20,
+        10,
+        0
+      ]
+    },
+    "gain": {
+      "label": "Gain",
+      "unit": "dB",
+      "levels": [
+        6,
+        -6,
+        -12
+      ]
+    },
+    "shift": {
+      "label": "Circular time shift",
+      "unit": "s",
+      "levels": [
+        0.5,
+        1.0,
+        2.0
+      ]
+    },
+    "time_mask": {
+      "label": "Time masking",
+      "unit": "fraction of window",
+      "levels": [
+        0.1,
+        0.25,
+        0.5
+      ]
+    },
+    "freq_mask": {
+      "label": "Frequency masking",
+      "unit": "fraction of 0-11 kHz",
+      "levels": [
+        0.1,
+        0.25,
+        0.5
+      ]
+    }
+  },
+  "test_clips": 758,
+  "noise_pink": "synthetic pink (1/f) noise, SNR measured over real audio only, added over the whole 4 s window",
+  "noise_mix": "train-split clip of a different class as background (power scaled over the 4 s window), pool of 324 clips",
+  "bootstrap_resamples": 200,
+  "frequency_mask": "STFT n_fft 2048 hop 512, 2 random bands zeroed, inverse STFT",
+  "time_mask": "4 random intervals zeroed",
+  "midterm_config": {
+    "dataset_doi": "10.5281/zenodo.17033970",
+    "sample_rate": 22050,
+    "duration": 4.0,
+    "n_mels": 128,
+    "n_fft": 2048,
+    "hop_length": 512,
+    "top_db": 80,
+    "seed": 42,
+    "split": [
+      0.7,
+      0.15,
+      0.15
+    ],
+    "batch_size": 64,
+    "epochs": 30,
+    "patience": 6,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "num_workers": 2,
+    "norm_mean": -9.343027114868164,
+    "norm_std": 22.104610443115234,
+    "classes": [
+      "Bells",
+      "Birds",
+      "Cat fights and moans",
+      "Chicken coop",
+      "Cicadas and crickets",
+      "Crows seagulls and magpies",
+      "Dog barkings and howlings",
+      "Glass breaking",
+      "Horn",
+      "Jet aircrafts",
+      "Lawn mower brush cutter and olive shaker",
+      "Music",
+      "Propeller aircrafts",
+      "Sirens and alarms",
+      "Thunder fireworks and gunshot",
+      "Train",
+      "Vacuum cleaner fan and hairdryer",
+      "Vehicle idling",
+      "Vehicle pass-by",
+      "Voices",
+      "Wind turbine",
+      "Workshop"
+    ],
+    "env": {
+      "python": "3.13.15",
+      "torch": "2.11.0+cu130",
+      "torchaudio": "2.11.0+cu130",
+      "torchvision": "0.26.0+cu130",
+      "librosa": "0.11.0",
+      "soundfile": "0.14.0",
+      "sklearn": "1.6.1",
+      "numpy": "2.1.3",
+      "pandas": "2.2.3"
+    }
+  },
+  "env": {
+    "python": "3.13.16",
+    "torch": "2.14.1+cu130",
+    "torchaudio": "2.11.0+cu130",
+    "librosa": "0.11.0",
+    "sklearn": "1.6.1",
+    "scipy": "1.16.3",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3"
+  }
+}

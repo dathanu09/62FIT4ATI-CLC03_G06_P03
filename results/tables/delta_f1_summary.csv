@@ -1,0 +1,19 @@
+perturbation,model,mean_delta,worst_delta
+freq_mask,CRNN,0.458,0.597
+freq_mask,MobileNetV3-Small,0.342,0.505
+freq_mask,Small CNN,0.297,0.427
+gain,CRNN,0.005,0.015
+gain,MobileNetV3-Small,0.015,0.046
+gain,Small CNN,0.026,0.056
+noise_mix,CRNN,0.385,0.59
+noise_mix,MobileNetV3-Small,0.44,0.686
+noise_mix,Small CNN,0.384,0.527
+noise_pink,CRNN,0.397,0.632
+noise_pink,MobileNetV3-Small,0.335,0.574
+noise_pink,Small CNN,0.496,0.654
+shift,CRNN,0.018,0.019
+shift,MobileNetV3-Small,0.008,0.015
+shift,Small CNN,0.007,0.014
+time_mask,CRNN,0.368,0.508
+time_mask,MobileNetV3-Small,0.343,0.495
+time_mask,Small CNN,0.463,0.626
